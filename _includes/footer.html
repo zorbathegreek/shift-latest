@@ -17,7 +17,10 @@
         </a>
       {% endif %}
     </nav>
-    <span>&copy; {{ site.time | date: '%Y' }} {{ site.title | escape }}. All rights reserved.</span>
+    <span>&copy; {{ site.time | date: '%Y' }} {{ site.author | escape }}. All rights reserved. Powered by <a href=https://janczizikow.github.io/sleek/>Sleek</a></span>
+
+<!-- Before: <span>&copy; {{ site.time | date: '%Y' }} {{ site.title | escape }}. All rights reserved.</span> -->
+
   </div>
 </footer>
 <script async src="{{ "/assets/js/bundle.js" | relative_url }}"></script>

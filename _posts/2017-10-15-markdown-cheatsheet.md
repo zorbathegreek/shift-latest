@@ -6,6 +6,8 @@ featured-img: emile-perron-190221
 
 ---
 
+
+<!--
 From [adam-p/markdown-here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ##### Table of Contents  
@@ -404,3 +406,4 @@ Referencing a bug by #bugID in your git commit links it to the slip. For example
 ---
 
 License: [CC-BY](https://creativecommons.org/licenses/by/3.0/)
+-->

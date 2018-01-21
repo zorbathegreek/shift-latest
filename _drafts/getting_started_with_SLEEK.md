@@ -1,24 +1,12 @@
 ---
 layout: post
-title: Getting Started with Gasification
+title: Getting Started with Sleek
 featured-img: sleek
 ---
 
 ## Getting started
 
-There are several to remove CO2 from the atmosphere. Turning biomass to charcoal, using the char in various ways (click yourself through this website to see how) and using it in agriculture, basically burying it, is the is the most promising, practical, and sustainable method. It can be done by those two or three billion people around the worls who cook on wood and charcoal, and you can pay them to clean up your CO2. 
-
-
-We have produced several videos: 
-
-* how to manfacture gasifiers and fuel driers in developing countires,
-* how women groups are manufacturing ther own,
-* how women produce and use their fuel
-
-
-
-
-<!-- [GitHub Pages](https://pages.github.com) can automatically generate and serve the website for you.
+[GitHub Pages](https://pages.github.com) can automatically generate and serve the website for you.
 Let's say you have a username/organisation `my-org` and project `my-proj`; if you locate Jekyll source under `blog` folder of master branch in your repo `github.com/my-org/my-proj`, the website will be served on `my-org.github.io/my-proj`.
 
 1. Just download or fork and clone the source from [github.com/janczizikow/sleek](https://github.com/janczizikow/sleek/).
@@ -76,5 +64,3 @@ lg |Post Hero | 445.625px | 891.25px
 xl |Post Hero | 353.125px | 706.25px
 
 Happy hacking!
--->
-
