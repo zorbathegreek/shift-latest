@@ -8,7 +8,7 @@ permalink: /Financing_it_all/
 
 The ever fluctuating oil price stands at ~50$/barrel (early 2018). The global consumption is ~100 million barrels a day; the industry's turnover is **~$5 billion/day**. 
 
-We propose that the oil, gas, and coal industry add a 20% CO2 removal fee to their product prices, and transfer these funds (~$1 billion a day) to those who do the clean-up; we will be happy to direct these funds to those who do the actual "clean-up" (and can prove it). All transfers will we public, following this example, <a href="https://sardex.net/il-circuito/?lang=en">sardex.net</a>, using an innovative payment tracking technology (more recent updates <a href="https://sardex.net/il-circuito/">here<a/>).
+We propose that the oil, gas, and coal industry add a 20% CO2 removal fee to their product prices, and transfer these funds (~$1 billion a day) to those who do the clean-up; we will be happy to assist directing these to those who do the actual "clean-up" (and can prove it). All transfers will we public, following this example, <a href="https://sardex.net/il-circuito/?lang=en">sardex.net</a>, using an innovative payment tracking technology (more recent updates <a href="https://sardex.net/il-circuito/">here<a/>).
 
 Until that happens, we are building the infrastructure to capture CO2, and would like to get your support. If you consider yourself still a part of the problem, <a href="link">click here</a> to become part of the solution. If you are ready to pay someone to clean up the air after you, you can learn more <a href="link-to-gasifier-site">here<a/>. You can decide how much you would be willing to spend. Say, 20% of what you spend for gasoline/petrol, or power?, <a/ href="link-to-gasifier-site">Click here</a> for examples.
 
