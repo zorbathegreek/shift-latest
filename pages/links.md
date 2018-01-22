@@ -15,3 +15,6 @@ permalink: /links/
 
 # Technical Links
 
+[Handbook of Biomass Downdraft Gasifier Engine Systems, Second Edition (Reed, 1998) [PRS98100]](http://www.drtlud.com/?resource=prs98100)
+
+[Collection of Literature related to Gasification (Prof Paul Anderson)](http://www.drtlud.com/resources/)
