@@ -4,9 +4,9 @@ title: Getting Started with Gasification
 featured-img: sleek
 ---
 
-## Getting started
+## Getting started with Gasification
 
-There are several to remove CO2 from the atmosphere. Turning biomass to charcoal, using the char in various ways (click yourself through this website to see how) and using it in agriculture, basically burying it, is the is the most promising, practical, and sustainable method. It can be done by those two or three billion people around the worls who cook on wood and charcoal, and you can pay them to clean up your CO2. 
+Turning biomass to charcoal, while cooking food on a gasifier, then using the char in various ways (click yourself through this website to see how) and eventually applying it agricultural land, is the most promising, practical, and sustainable method of carbon sequestration. It can be done by those **2 or 3 billion** people around the world who cook on wood and charcoal, and you can pay them to clean up your CO2. 
 
 
 We have produced several videos: 

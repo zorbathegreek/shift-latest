@@ -12,6 +12,7 @@ permalink: /todo/
 * Georeferencing carbon deposits [georeferencing](/georeferencing)
 * Translating the website into your language
 * Voicing over / dubbing educational videos in your language
-*  
 * 
+
+* Create cryptocurrency 
 
