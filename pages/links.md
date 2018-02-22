@@ -18,70 +18,91 @@ amendments on soil physico-chemical properties and the total community within a 
 perate agricultural soil.** Appl. Soil Ecol. 98, 243–253. https://doi.org/10.1016/j.apsoil.2015.10.021
 
 Ahmad, M., Ok, Y.S., Kim, B.-Y., Ahn, J.-H., Lee, Y.H., Zhang, M., Moon, D.H., Al-Wabel, M.I.,
-Lee, S.S., 2016a. Impact of soybean stover- and pine needle-derived biochars on Pb and as
-mobility, microbial community, and carbon stability in a contaminated agricultural soil.
-J. Environ. Manag. 166, 131–139.
+Lee, S.S., 2016a. **Impact of soybean stover- and pine needle-derived biochars on Pb and as
+mobility, microbial community, and carbon stability in a contaminated agricultural soil.**
+J. Environ. Manag. 166, 131–139.  https://doi.org/10.1016/j.jenvman.2015.10.006
+
 Ahmad, M., Ok, Y.S., Rajapaksha, A.U., Lim, J.E., Kim, B.-Y., Ahn, J.-H., Lee, Y.H., Al-Wabel,
-M.I., Lee, S.-E., Lee, S.S., 2016b. Lead and copper immobilization in a shooting range soil
+M.I., Lee, S.-E., Lee, S.S., 2016b. **Lead and copper immobilization in a shooting range soil
 using soybean stover- and pine needle-derived biochars: chemical, microbial and spec-
-troscopic assessments. J. Hazard Mater. 301, 179–186.
+troscopic assessments.** J. Hazard Mater. 301, 179–186. https://doi.org/10.1016/j.jhazmat.2015.08.029
+
 Anderson, C.R., Condron, L.M., Clough, T.J., Fiers, M., Stewart, A., Hill, R.A., Sherlock, R.R.,
-2011. Biochar induced soil microbial community change: implications for biogeochemical
-cycling of carbon, nitrogen and phosphorus. Pedobiologia 54, 309–320.
-Anderson, C.R., Hamouts, K., Clough, T.J., Condron, L.M., 2014. Biochar does not affect soil
+2011. **Biochar induced soil microbial community change: implications for biogeochemical
+cycling of carbon, nitrogen and phosphorus.** Pedobiologia 54, 309–320.  https://doi.org/10.1016/j.pedobi.2011.07.005
+
+Anderson, C.R., Hamouts, K., Clough, T.J., Condron, L.M., 2014. **Biochar does not affect soil
 N-transformations or microbial community structure under ruminant urine patches but
-does not alter relative proportions of nitrogen cycling bacteria. Agric. Ecosyst. Environ.
-191, 63–72.References
-33
-Andert, J., Mumme, J., 2015. Impact of pyrolysis and hydrothermal biochar on gas-­emitting
-activity of soil microorganisms and bacterial and archaeal community composition.
-Appl. Soil Ecol. 96, 225–239.
+does not alter relative proportions of nitrogen cycling bacteria.** Agric. Ecosyst. Environ.
+191, 63–72.References  https://doi.org/10.1016/j.agee.2014.02.021
+
+
+Andert, J., Mumme, J., 2015. **Impact of pyrolysis and hydrothermal biochar on gas-­emitting
+activity of soil microorganisms and bacterial and archaeal community composition.**
+Appl. Soil Ecol. 96, 225–239.  https://doi.org/10.1016/j.apsoil.2015.08.019
+
 Asai, H., Samson, B.K., Stephan, H.M., Songyikhangsuthor, K., Homma, K., Kiyono, Y.,
-Inoue, Y., Shiraiwa, T., Horie, T., 2009. Biochar amendment techniques for upland rice
-production in northern Laos: soil physical properties, leaf SPAD and grain yield. Field
-Crop Res. 111, 81–84.
-Atkinson, C.J., Fitzgerald, J.D., Hipps, N.A., 2010. Potential mechanism for achieving agri-
-cultural benefits from biochar application to temperate soils: a review. Plant Soil 337,
-1–18.
+Inoue, Y., Shiraiwa, T., Horie, T., 2009. **Biochar amendment techniques for upland rice
+production in northern Laos: soil physical properties, leaf SPAD and grain yield.** Field
+Crop Res. 111, 81–84.  https://doi.org/10.1016/j.fcr.2008.10.008
+
+
+Atkinson, C.J., Fitzgerald, J.D., Hipps, N.A., 2010. **Potential mechanism for achieving agri-
+cultural benefits from biochar application to temperate soils: a review.** Plant Soil 337,
+1–18.  https://doi.org/10.1007/s11104-010-0464-5
+
 Barbosa Lima, A., Cannavan, F.S., Navarrete, A.A., Teixeira, W.G., Kuramae, E.E., Tsai, S.M.,
-2015. Amazonian Dark Earth and plant species from the Amazon region contribute to
-shape rhizosphere bacterial communities. Microb. Ecol. 69, 855–866.
-Basso, A.S., Miguez, F.E., Laird, D.A., Horton, R., Westgate, M., 2013. Assessing potential of
-biochar for increasing water-holding capacity of sandy soils. Glob. Change Biol. Bioen-
-ergy 5, 132–143.
-Bardgett, E., 2005. The Biology of Soil: A Community and Ecosystem Approach. Oxford Uni-
-versity Press.
-Beesley, L., Moreno-Jimenez, E., Gomez-Eyles, J.L., 2010. Effects of biochar and greenwaste
+2015. **Amazonian Dark Earth and plant species from the Amazon region contribute to
+shape rhizosphere bacterial communities.** Microb. Ecol. 69, 855–866.  https://doi.org/10.1007/s00248-014-0472-8
+
+Basso, A.S., Miguez, F.E., Laird, D.A., Horton, R., Westgate, M., 2013. **Assessing potential of
+biochar for increasing water-holding capacity of sandy soils.** Glob. Change Biol. Bioen-
+ergy 5, 132–143.  DOI: 10.1111/gcbb.12026
+
+Bardgett, E., 2005. **The Biology of Soil: A Community and Ecosystem Approach.** Oxford Uni-
+versity Press.  https://www.researchgate.net/profile/Abhishek_Raj15/post/Have_we_failed_to_address_the_role_of_soil_as_ecosystem_service_provider/attachment/59d6470a79197b80779a1fbe/AS:460858657644545@1486888674345/download/book.pdf
+
+Beesley, L., Moreno-Jimenez, E., Gomez-Eyles, J.L., 2010. **Effects of biochar and greenwaste
 compost amendments on mobility, bioavailability and toxicity of inorganic and organic
-contaminants in a multi-element polluted soil. Environ. Pollut. 158, 2282–2287.
-Beesley, L., Dickinson, N., 2011. Carbon and trace element fluxes in the pore water of an
+contaminants in a multi-element polluted soil.** Environ. Pollut. 158, 2282–2287.  doi: 10.1016/j.envpol.2010.02.003
+
+Beesley, L., Dickinson, N., 2011. **Carbon and trace element fluxes in the pore water of an
 urban soil following greenwaste compost, woody and biochar amendments, inoculated
-with the earthworm Lumbricus terrestris. Soil Biol. Biochem. 43, 188–196.
+with the earthworm Lumbricus terrestris.** Soil Biol. Biochem. 43, 188–196.  https://doi.org/10.1016/j.soilbio.2010.09.035
+
 Beesley, L., Moreno-Jimenez, E., Gomez-Eyles, J.L., Harris, E., Robionson, B., Sizmur, T., 2011.
-A review of biochars’ potential role in the remediation, revegetation, and restoration of
-contaminated soils. Environ. Pollut. 159, 3269–3282.
-Brossi, M.J.D.L., Mendes, L.W., Germano, M.G., Lima, A.B., Tsai, S.M., 2014. Assessment of
-bacterial bph gene in Amazonian Dark Earth and their adjacent soils. PLoS One 9 (6),
-e99597.
-Bushnaf, K.M., Puricelli, S., Saponaro, S., Werner, D., 2011. Effect of biochar on the fate of
-volatile petroleum hydrocarbon in an aerobic sandy soil. J. Contam. Hydrol. 126, 208–215.
+**A review of biochars’ potential role in the remediation, revegetation, and restoration of
+contaminated soils.** Environ. Pollut. 159, 3269–3282.  https://doi.org/10.1016/j.envpol.2011.07.023
+
+Brossi, M.J.D.L., Mendes, L.W., Germano, M.G., Lima, A.B., Tsai, S.M., 2014. **Assessment of
+bacterial bph gene in Amazonian Dark Earth and their adjacent soils.** PLoS One 9 (6),
+e99597.   https://doi.org/10.1371/journal.pone.0099597
+
+Bushnaf, K.M., Puricelli, S., Saponaro, S., Werner, D., 2011. **Effect of biochar on the fate of
+volatile petroleum hydrocarbon in an aerobic sandy soil.** J. Contam. Hydrol. 126, 208–215.   https://doi.org/10.1016/j.jconhyd.2011.08.008
+
 Cattaneo, F., Di Gennaro, P., Barbanti, L., Giovannini, C., Labra, M., Moreno, B., Benitez, E.,
-Marzadori, C., 2014. Perennial energy cropping systems affect soil enzyme activities and
-bacterial community structure in a South European agricultural area. Appl. Soil Ecol. 84,
-213–222.
+Marzadori, C., 2014. **Perennial energy cropping systems affect soil enzyme activities and
+bacterial community structure in a South European agricultural area.** Appl. Soil Ecol. 84,
+213–222.  https://doi.org/10.1016/j.apsoil.2014.08.003
+
 Cayuela, M.L., Sanchez-Monedero, M.A., Roig, A., Hanley, K., Enders, A., Lehmann, J., 2013.
-Biochar and denitrification in soils: when, how much and why does biochar reduce N 2 O
-emissions. Scientific Reports 3. http://dx.doi.org/10.1038/srep01732.
+**Biochar and denitrification in soils: when, how much and why does biochar reduce N 2 O
+emissions.** Scientific Reports 3. http://dx.doi.org/10.1038/srep01732.
+
 Cenciani, K., Mazzetto, A.M., Lammel, D.R., Fracetto, F.J., Fracetto, G.G.M., Frazao, L., Cerri,
-C., Feigl, B., 2010. Genetic and functional diversities of microbial communities in Amazo-
-nian soils under different land uses and cultivation. InTechOpen 125–141.
-Cernansky, R., 2015. Agriculture: state-of-the-art soil. Nature 517, 258–260.
-Chan, K.Y., Van Zwieten, L., Meszaros, I., Downie, A., Joseph, S., 2007. Agronomic values of
-green waste biochar as a soil amendment. Aus. J. Soil Res. 45, 629–634.
-Chen, J., Liu, X., Li, L., Zheng, J., Qu, J., Zheng, J., Zhang, X., Pan, G., 2015. Consistent increase
+C., Feigl, B., 2010. **Genetic and functional diversities of microbial communities in Amazo-
+nian soils under different land uses and cultivation.** InTechOpen 125–141.  DOI: 10.5772/16598
+
+Cernansky, R., 2015. **Agriculture: state-of-the-art soil.** Nature 517, 258–260.   doi: 10.1038/517258a
+
+Chan, K.Y., Van Zwieten, L., Meszaros, I., Downie, A., Joseph, S., 2007. **Agronomic values of
+green waste biochar as a soil amendment.** Aus. J. Soil Res. 45, 629–634.
+
+Chen, J., Liu, X., Li, L., Zheng, J., Qu, J., Zheng, J., Zhang, X., Pan, G., 2015. **Consistent increase
 in abundance and diversity but variable change in community composition of bacteria
 in topsoil of rice paddy under short term biochar treatment across three sites from South
-China. Appl. Soil Ecol. 91, 68–79.
+China.** Appl. Soil Ecol. 91, 68–79.
 Chen, J., Liu, X., Zheng, J., Zhang, B., Lu, H., Chi, Z., Pan, G., Li, L., Zheng, J., Zhang, X.,
 Wang, J., Yu, X., 2013. Biochar soil amendment increased bacterial but decreased fungal
 gene abundance with shifts in community structure in a slightly acid rice paddy from
