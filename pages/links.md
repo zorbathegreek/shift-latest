@@ -6,175 +6,175 @@ permalink: /links/
 
 # Links to Scientific and other Literature
 
+If you have problems viewing doi links, [read this Sciencemag article](http://www.sciencemag.org/news/2016/04/whos-downloading-pirated-papers-everyone) or [this International Business Times page](http://www.ibtimes.co.uk/sci-hub-pirate-bay-scientists-now-available-anonymous-telegram-messaging-app-1560576)
+
 ## Terra Preta
 
-Abel, S., Peters, A., Trinks, S., Schonsky, H., Facklam, M., Wessolek, G., 2013. Impact of bio-
-char and hydrochar addition on water retention and water repellency of sandy soil. Geo-
-derma 202, 183–191. https://www.researchgate.net/profile/Gerd_Wessolek/publication/256092794_Impact_of_biochar_and_hydrochar_addition_on_water_retention_and_water_repellency_of_sandy_soil/links/5723623108ae586b21d88453/Impact-of-biochar-and-hydrochar-addition-on-water-retention-and-water-repellency-of-sandy-soil.pdf
+Abel, S., Peters, A., Trinks, S., Schonsky, H., Facklam, M., Wessolek, G., 2013. **Impact of biochar and hydrochar addition on water retention and water repellency of sandy soil.** Geoderma 202, 183–191. [link](https://www.researchgate.net/profile/Gerd_Wessolek/publication/256092794_Impact_of_biochar_and_hydrochar_addition_on_water_retention_and_water_repellency_of_sandy_soil/links/5723623108ae586b21d88453/Impact-of-biochar-and-hydrochar-addition-on-water-retention-and-water-repellency-of-sandy-soil.pdf)
 
-Ameloot, N., Graber, E.R., Verheijen, F.G.A., De Neve, S., 2013. Interactions between biochar
-stability and soil organisms: review and research needs. Eur. J. Soil Sci. 64, 379–390. DOI: 10.1111/ejss.12064
+Ameloot, N., Graber, E.R., Verheijen, F.G.A., De Neve, S., 2013. **Interactions between biochar
+stability and soil organisms: review and research needs.** Eur. J. Soil Sci. 64, 379–390. [doi link](https://doi.org/10.1111/ejss.12064)
 
-Augustenborg, C.A., Hepp, S., Kammann, C., Hagan, D., Schmidt, O., Müller, C., 2012. Bio-
-char and earthworm effects on soil nitrous oxide and carbon dioxide emissions. J. Envi-
-ron. Qual. 41, 1203–1209. doi: 10.2134/jeq2011.0119
+Augustenborg, C.A., Hepp, S., Kammann, C., Hagan, D., Schmidt, O., Müller, C., 2012. **Bio-
+char and earthworm effects on soil nitrous oxide and carbon dioxide emissions.** J. Envi-
+ron. Qual. 41, 1203–1209. [doi link](https://doi.org/10.2134/jeq2011.0119)
 
-Bamminger, C., Zaiser, N., Zinsser, P., Lamers, M., Kammann, C., Marhan, S., 2014. Effects
+Bamminger, C., Zaiser, N., Zinsser, P., Lamers, M., Kammann, C., Marhan, S., 2014. **Effects
 of biochar, earthworms, and litter addition on soil microbial activity and abundance in a
-temperate agricultural soil. Biol. Fertil. Soils 50, 1189–1200  doi: 10.1007/s00374-014-0968-x
+temperate agricultural soil.** Biol. Fertil. Soils 50, 1189–1200  [doi link](https://doi.org/10.1007/s00374-014-0968-x)
 
-Bardgett, E., 2005. The Biology of Soil: A Community and Ecosystem Approach. Oxford
-University Press.  https://www.researchgate.net/profile/Abhishek_Raj15/post/Have_we_failed_to_address_the_role_of_soil_as_ecosystem_service_provider/attachment/59d6470a79197b80779a1fbe/AS:460858657644545@1486888674345/download/book.pdf
+Bardgett, E., 2005. **The Biology of Soil: A Community and Ecosystem Approach.** Oxford
+University Press.  [link](https://www.researchgate.net/profile/Abhishek_Raj15/post/Have_we_failed_to_address_the_role_of_soil_as_ecosystem_service_provider/attachment/59d6470a79197b80779a1fbe/AS:460858657644545@1486888674345/download/book.pdf)
 
 Bastos, A.C., Prodana, M., Abrantes, N., Keizer, J.J., Soares, A.M.V.M., Loureiro, S., 2014.
-Potential risk of biochar-amended soil to aquatic systems: an evaluation based on aquatic
-bioassays. Ecotoxicology 23, 1784–1793.  https://www.researchgate.net/profile/Susana_Loureiro/publication/265609648_Potential_risk_of_biochar-amended_soil_to_aquatic_systems_an_evaluation_based_on_aquatic_bioassays/links/54198e2a0cf25ebee9886e02/Potential-risk-of-biochar-amended-soil-to-aquatic-systems-an-evaluation-based-on-aquatic-bioassays.pdf  
-doi.org/10.1007/s10646-014-1344-1
+**Potential risk of biochar-amended soil to aquatic systems: an evaluation based on aquatic
+bioassays.** Ecotoxicology 23, 1784–1793.  [link](https://www.researchgate.net/profile/Susana_Loureiro/publication/265609648_Potential_risk_of_biochar-amended_soil_to_aquatic_systems_an_evaluation_based_on_aquatic_bioassays/links/54198e2a0cf25ebee9886e02/Potential-risk-of-biochar-amended-soil-to-aquatic-systems-an-evaluation-based-on-aquatic-bioassays.pdf) 
+[doi link](https://doi.org/10.1007/s10646-014-1344-1)
 
-Beesley, L., Dickinson, N., 2011. Carbon and trace element fluxes in the pore water of an
+Beesley, L., Dickinson, N., 2011. **Carbon and trace element fluxes in the pore water of an
 urban soil following greenwaste compost, woody and biochar amendments, inoculated
-with the earthworm Lumbricus terrestris. Soil Biol. Biochem. 43, 188–196.
+with the earthworm Lumbricus terrestris.** Soil Biol. Biochem. 43, 188–196.
 
 
 Beesley, L., Moreno-Jiménez, E., Gomez-Eyles, J.L., Harris, E., Robinson, B., Sizmur, T., 2011.
-A review of biochars’ potential role in the remediation, revegetation and restoration of
-contaminated soils. Environ. Pollut. 159, 3269–3282. doi.org/10.1016/j.envpol.2011.07.023
+**A review of biochars’ potential role in the remediation, revegetation and restoration of
+contaminated soils.** Environ. Pollut. 159, 3269–3282. [doi link](https://doi.org/10.1016/j.envpol.2011.07.023)
 
 Blouin, M., Hodson, M.E., Delgado, E.A., Baker, G., Brussaard, L., Butt, K.R., Dai, J.,
-Dendooven, L., Peres, G., Tondoh, J.E., Cluzeau, D., Brun, J.-J., 2013. A review of earth-
-worm impact on soil function and ecosystem services. Eur. J. Soil Sci. 64, 161–182.  DOI: 10.1111/ejss.12025
+Dendooven, L., Peres, G., Tondoh, J.E., Cluzeau, D., Brun, J.-J., 2013. **A review of earth-
+worm impact on soil function and ecosystem services.** Eur. J. Soil Sci. 64, 161–182.  [doi link](https://doi.org/10.1111/ejss.12025)
 
-Bongers, T., Bongers, M., 1998. Functional diversity of nematodes. App. Soil Ecol. 10,
-239–251.  DOI: 10.1016/S0929-1393(98)00123-1
+Bongers, T., Bongers, M., 1998. **Functional diversity of nematodes.** App. Soil Ecol. 10,
+239–251.  [doi link](https://doi.org/10.1016/S0929-1393(98)00123-1)
 
-Borken, W.S., Grundel, S., Beese, F., 2000. Potential contribution of Lumbricus terrestris L. to carbon
-dioxide, methane and nitrous oxide fluxes from a forest soil. Biol. Fertil. Soils 32, 142–148.  https://doi.org/10.1007/s003740000228
+Borken, W.S., Grundel, S., Beese, F., 2000. **Potential contribution of Lumbricus terrestris L. to carbon
+dioxide, methane and nitrous oxide fluxes from a forest soil.** Biol. Fertil. Soils 32, 142–148.  [doi link](https://doi.org/10.1007/s003740000228)
 
-British Biochar Foundation (BBF), 2013. Biochar Quality Mandate. Version 1.0. http://www.
+British Biochar Foundation (BBF), 2013. **Biochar Quality Mandate. Version 1.0.** http://www.
 geos.ed.ac.uk/homes/sshackle/BQM.pdf (accessed 24.04.14.).
 
-Brussaard, L., 2012. Ecosystem services provided by the soil biota. In: Wall, D.H., Bardgett,
+Brussaard, L., 2012. **Ecosystem services provided by the soil biota.** In: Wall, D.H., Bardgett,
 R.D., Behan-Pelletier, V., Herrick, J.E., Jones, T.H., Six, J., Strong, D.R. (Eds.), Soil Ecology
-and Ecosystem Services. Oxford University Press, pp. 45–58.  DOI:10.1093/acprof:oso/9780199575923.003.0005
+and Ecosystem Services. Oxford University Press, pp. 45–58.  [doi link](https://doi.org/10.1093/acprof:oso/9780199575923.003.0005)
 
-Bunting, B.T., Lundberg, J., 1987. The humus profile – concept, class and reality. Geoderma
-40, 17–36.  https://doi.org/10.1016/0016-7061(87)90011-5
+Bunting, B.T., Lundberg, J., 1987. **The humus profile – concept, class and reality.** Geoderma
+40, 17–36.  [doi link](https://doi.org/10.1016/0016-7061(87)90011-5)
 
-Busch, D., Kammann, C., Grünhage, L., Müller, C., 2011. Simple biotoxicity tests for evalua-
+Busch, D., Kammann, C., Grünhage, L., Müller, C., 2011. **Simple biotoxicity tests for evalua-
 tion of carbonaceous soil additives: establishment and reproducibility of four test proce-
-dures. J. Environ. Qual. 40, 1–10.   doi: 10.2134/jeq2011.0122.
+dures.** J. Environ. Qual. 40, 1–10.   [doi link](https://doi.org/10.2134/jeq2011.0122)
 
-Buss, W., Mašek, O., 2014. Mobile organic compounds in biochar–A potential source of con-
-tamination–phytotoxic effects on cress seed (Lepidium sativum) germination. J. Environ.
-Manag. 137, 111–119.  https://doi.org/10.1016/j.jenvman.2014.01.045
+Buss, W., Mašek, O., 2014. **Mobile organic compounds in biochar–A potential source of con-
+tamination–phytotoxic effects on cress seed (Lepidium sativum) germination.** J. Environ.
+Manag. 137, 111–119.  [doi link](https://doi.org/10.1016/j.jenvman.2014.01.045)
 
-Carcaillet, C., 2001. Soil particles reworking evidences by AMS 14 C dating of charcoal. C.R.
-Acad. Sci. Séries 2, Sci. de la Terre des Planètes 332, 21–28.  https://doi.org/10.1016/S1251-8050(00)01485-3 
+Carcaillet, C., 2001. **Soil particles reworking evidences by AMS 14 C dating of charcoal.** C.R.
+Acad. Sci. Séries 2, Sci. de la Terre des Planètes 332, 21–28.  [doi link](https://doi.org/10.1016/S1251-8050(00)01485-3) 
 
 Castracani, C., Maienza, A., Grasso, D.A., Genesio, L., Malcevschi, A., Miglietta, F., 2015.
-Biochar–macrofauna interplay: Searching for new bioindicators. Science of the Total
-Environment 536, 449–456.  https://doi.org/10.1016/j.scitotenv.2015.07.019
+**Biochar–macrofauna interplay: Searching for new bioindicators.** Science of the Total
+Environment 536, 449–456.  [doi link](https://doi.org/10.1016/j.scitotenv.2015.07.019)
 
 Cayuela, M.L., Van, Zwieten, L., Singh, B.P., Jeffery, S., Roig, A., Sánchez-Monedero,
-M.A., 2014. Biochar’s role in mitigating soil nitrous oxide emissions: a review and
-meta-analysis. Agric. Ecosyst. Environ. 191, 5–16.  https://doi.org/10.1016/j.agee.2013.10.009
+M.A., 2014. **Biochar’s role in mitigating soil nitrous oxide emissions: a review and
+meta-analysis.** Agric. Ecosyst. Environ. 191, 5–16.  [doi link](https://doi.org/10.1016/j.agee.2013.10.009)
 
-Ceccanti, B., Masciandaro, G., Garcia, C., Macci, C., Doni, S., 2006. Soil bioremediation: com-
+Ceccanti, B., Masciandaro, G., Garcia, C., Macci, C., Doni, S., 2006. **Soil bioremediation: com-
 bination of earthworms and compost for the ecological remediation of a hydrocarbon
-polluted soil. Water Air Soil Pollut. 177, 383–397.   https://doi.org/10.1007/s11270-006-9180-4
+polluted soil.** Water Air Soil Pollut. 177, 383–397.   [doi link](https://doi.org/10.1007/s11270-006-9180-4)
 
-Chakrabarti, S., Kern, J., Menzel, R., Steinberg, C.E., 2011. Selected natural humic materials
+Chakrabarti, S., Kern, J., Menzel, R., Steinberg, C.E., 2011. **Selected natural humic materials
 induce and char substrates repress a gene in Caenorhabditis elegans homolog to human
-anticancer P53. Ann. Environ. Sci. 5, 1–6.
+anticancer P53.** Ann. Environ. Sci. 5, 1–6.
 
 
-Chan, K.Y., Van Zwieten, L., Meszaros, I., Downie, A., Joseph, S., 2008. Using poultry litter
-biochars as soil amendments. Aus. J. Soil Res. 46, 437–444.   https://doi.org/10.1071/SR08036
+Chan, K.Y., Van Zwieten, L., Meszaros, I., Downie, A., Joseph, S., 2008. **Using poultry litter
+biochars as soil amendments.** Aus. J. Soil Res. 46, 437–444.   [doi link](https://doi.org/10.1071/SR08036)
 
-Cole, L., Bardgett, R.D., Ineson, P., 2000. Enchytraeid worms (Oligochaeta) enhance mineral-
-ization of carbon in organic upland soils. Eur. J. Soil Sci. 51, 185–192.  DOI: 10.1046/j.1365-2389.2000.00297.x
+Cole, L., Bardgett, R.D., Ineson, P., 2000. **Enchytraeid worms (Oligochaeta) enhance mineral-
+ization of carbon in organic upland soils.** Eur. J. Soil Sci. 51, 185–192.  [doi link](https://doi.org/10.1046/j.1365-2389.2000.00297.x)
 
-Coleman, D.C., Crossley Jr., D.A., Hendrix, P.F., 2004. Fundamentals of Soil Ecology. Elsevier
+Coleman, D.C., Crossley Jr., D.A., Hendrix, P.F., 2004. **Fundamentals of Soil Ecology.** Elsevier
 Academic Press.
 
 
-Coleman, D.C., Vadakattu, G., Moore, J.C., 2012. Soil ecology and agroecosystem studies: a
-dynamic world. In: Cheeke, T., Coleman, D.C., Wall, D.H. (Eds.), Microbial Ecology in
-Sustainable Agroecosystems. CRC Press, Boca Raton, pp. 1–21.  https://www.researchgate.net/profile/Abhishek_Raj15/post/Can_high_nutrient-use-efficiency_NUE_guarantee_high_crop_yield_and_vice-versa/attachment/59d6366a79197b8077993d39/AS:388542145548288@1469647074889/download/Book+2.pdf
+Coleman, D.C., Vadakattu, G., Moore, J.C., 2012. **Soil ecology and agroecosystem studies: a
+dynamic world.** In: Cheeke, T., Coleman, D.C., Wall, D.H. (Eds.), Microbial Ecology in
+Sustainable Agroecosystems. CRC Press, Boca Raton, pp. 1–21.  [link](https://www.researchgate.net/profile/Abhishek_Raj15/post/Can_high_nutrient-use-efficiency_NUE_guarantee_high_crop_yield_and_vice-versa/attachment/59d6366a79197b8077993d39/AS:388542145548288@1469647074889/download/Book+2.pdf)
 
 
-Coleman, D.C., Wall, D.H., 2014. Soil fauna: occurrence, biodiversity, and roles in ecosystem
-function. In: Paul, E.A. (Ed.), Soil Microbiology, Ecology, and Biochemistry, fourth ed.
+Coleman, D.C., Wall, D.H., 2014. **Soil fauna: occurrence, biodiversity, and roles in ecosystem
+function.** In: Paul, E.A. (Ed.), Soil Microbiology, Ecology, and Biochemistry, fourth ed.
 Elsevier Publishers.
 
 
 Conti, F.D., Gadi, C., Malcevschi, A., Panzacchi, P., Ventura, M., Visioli, G., Menta, C., Decem-
-ber 2–5, 2014. How the edaphic microarthropod community reacts to the biochar applica-
-tion in soils. In: The First Global Soil Biodiversity Conference, Dijon, France.
+ber 2–5, 2014. **How the edaphic microarthropod community reacts to the biochar applica-
+tion in soils.** In: The First Global Soil Biodiversity Conference, Dijon, France.
 
 
-Cragg, R.G., Bardgett, R.D., 2001. How changes in soil fauna diversity and composition within
-a trophic group influences decomposition processes. Soil Biol. Biochem. 33, 2073–2081.   https://doi.org/10.1016/S0038-0717(01)00138-9
+Cragg, R.G., Bardgett, R.D., 2001. **How changes in soil fauna diversity and composition within
+a trophic group influences decomposition processes.** Soil Biol. Biochem. 33, 2073–2081.   [doi link](https://doi.org/10.1016/S0038-0717(01)00138-9)
 
-Domene, X., Mattana, S., Hanley, K., Enders, A., Lehmann, J., 2014. Medium-term effects of
+Domene, X., Mattana, S., Hanley, K., Enders, A., Lehmann, J., 2014. **Medium-term effects of
 corn biochar addition on soil biota activities and functions in a temperate soil cropped to
-corn. Soil Biol. Biochem. 72, 152–162.  https://doi.org/10.1016/j.soilbio.2014.01.035
+corn.** Soil Biol. Biochem. 72, 152–162.  [doi link](https://doi.org/10.1016/j.soilbio.2014.01.035)
 
-Domene, X., Hanley, K., Enders, A., Lehmann, J., 2015a. Short-term mesofauna responses to soil
-additions of corn stover biochar and the role of microbial biomass. App. Soil Ecol. 89, 10–17.  https://doi.org/10.1016/j.apsoil.2014.12.005
+Domene, X., Hanley, K., Enders, A., Lehmann, J., 2015a. **Short-term mesofauna responses to soil
+additions of corn stover biochar and the role of microbial biomass.** App. Soil Ecol. 89, 10–17.  [doi link](https://doi.org/10.1016/j.apsoil.2014.12.005)
 
-Domene, X., Mattana, S., Sanchez-Moreno, S., 2015b. Soil nematode communities as indica-
-tors of medium-term ecological impacts of biochar application. In: 25th SETAC Europe
+Domene, X., Mattana, S., Sanchez-Moreno, S., 2015b. **Soil nematode communities as indica-
+tors of medium-term ecological impacts of biochar application.** In: 25th SETAC Europe
 Annual Meetting, 3–7 May, Barcelona, Spain.
 
 
 
-Domene, X., Hanley, K., Enders, A., Lehmann, J., 2015c. Ecotoxicological characterization of
-biochars: role of feedstock and pyrolysis temperature. Sci. Total Environ. 512–513, 552–561.  https://doi.org/10.1016/j.scitotenv.2014.12.035
+Domene, X., Hanley, K., Enders, A., Lehmann, J., 2015c. **Ecotoxicological characterization of
+biochars: role of feedstock and pyrolysis temperature.** Sci. Total Environ. 512–513, 552–561.  [doi link](https://doi.org/10.1016/j.scitotenv.2014.12.035)
 
 
-Drake, H.L., Schramm, A., Horn, M.A., 2006. Earthworm gut microbial biomass: their
+Drake, H.L., Schramm, A., Horn, M.A., 2006. **Earthworm gut microbial biomass: their
 importance to soil microorganisms, denitrification, and the terrestrial production of the
-greenhouse gas N 2 O. In: König, H., Varma, A. (Eds.), Intestinal Microorganisms of Soil
+greenhouse gas N 2 O.** In: König, H., Varma, A. (Eds.), Intestinal Microorganisms of Soil
 Invertebrates. Springer, Berlin, pp. 65–87.  
 
 
 
-Dungait, J.A., Hopkins, D.W., Gregory, A.S., Whitmore, A.P., 2012. Soil organic matter turn-
-over is governed by accessibility not recalcitrance. Glob. Change Biol. 18, 1781–1796.  doi: 10.1111/j.1365-2486.2012.02665.x
+Dungait, J.A., Hopkins, D.W., Gregory, A.S., Whitmore, A.P., 2012. **Soil organic matter turn-
+over is governed by accessibility not recalcitrance.** Glob. Change Biol. 18, 1781–1796.  [doi link](https://doi.org/10.1111/j.1365-2486.2012.02665.x)
 
-EBC, 2012. European Biochar Certificate - Guidelines for a Sustainable Production of Biochar.
+EBC, 2012. **European Biochar Certificate - Guidelines for a Sustainable Production of Biochar.**
 European Biochar Foundation (EBC), Arbaz, Switzerland. Version 4.8. http://www.
-europeanbiochar.org/en/download (accessed 24.04.14.).  doi: 10.1111/j.1365-2486.2012.02665.x
+europeanbiochar.org/en/download (accessed 24.04.14.).  [doi link](https://doi.org/10.1111/j.1365-2486.2012.02665.x)
 
-Eckmeier, E., Gerlach, R., Skjemstad, J.O., Ehrmann, O., Schmidt, M.W.I., 2007. Minor changes
+Eckmeier, E., Gerlach, R., Skjemstad, J.O., Ehrmann, O., Schmidt, M.W.I., 2007. **Minor changes
 in soil organic carbon and charcoal concentrations detected in a temperate deciduous for-
-est a year after an experimental slash-and-burn. Biogeosciences 4, 377–383. https://www.biogeosciences.net/4/377/2007/bg-4-377-2007.pdf
+est a year after an experimental slash-and-burn.** Biogeosciences 4, 377–383. [link](https://www.biogeosciences.net/4/377/2007/bg-4-377-2007.pdf)
 
 Elad, Y., Cytryn, E., Harel, Y.M., Lew, B., Graber, E.R., 2011. The biochar effect: plant resis-
-tance to biotic stresses. Phytopathol. Mediterr. 50, 335–349.  http://dx.doi.org/10.14601/Phytopathol_Mediterr-9807
+tance to biotic stresses. Phytopathol. Mediterr. 50, 335–349.  [doi link](https://doi.org/10.14601/Phytopathol_Mediterr-9807)
 
-Elmer, W.H., Lattao, C.V., Pignatello, J.J., 2015. Active removal of biochar by earthworms
-(Lumbricus terrestris). Pedobiologia 58, 1–6.  https://doi.org/10.1016/j.pedobi.2014.11.001
+Elmer, W.H., Lattao, C.V., Pignatello, J.J., 2015. **Active removal of biochar by earthworms
+(Lumbricus terrestris).** Pedobiologia 58, 1–6.  [doi link](https://doi.org/10.1016/j.pedobi.2014.11.001)
 
-Enders, A., Hanley, K., Whitman, T., Joseph, S., Lehmann, J., 2012. Characterization of bio-
-chars to evaluate recalcitrance and agronomic performance. Biores. Technol. 114, 644–653. 
-https://doi.org/10.1016/j.biortech.2012.03.022
+Enders, A., Hanley, K., Whitman, T., Joseph, S., Lehmann, J., 2012. **Characterization of biochars to evaluate recalcitrance and agronomic performance.** Biores. Technol. 114, 644–653. 
+[doi link](https://doi.org/10.1016/j.biortech.2012.03.022)
 
-Fischer, Z., Bieńkowski, P., 1999. Some remarks about the effect of smoke from charcoal kilns
-on soil degradation. Environ. Monit. Assess. 58, 349–358.  https://doi.org/10.1023/A:1006058512644
+Fischer, Z., Bieńkowski, P., 1999. **Some remarks about the effect of smoke from charcoal kilns
+on soil degradation.** Environ. Monit. Assess. 58, 349–358.  [doi link](https://doi.org/10.1023/A:1006058512644)
 
-Fontodji, J.K., Mawussi, G., Nuto, Y., Kokou, K., 2009. Effects of charcoal production on soil
-biodiversity and soil physical and chemical properties in Togo, West Africa. Int. J. Biol.
-Chem. Sci. 3, 870–879.  http://dx.doi.org/10.4314/ijbcs.v3i5.51051
+Fontodji, J.K., Mawussi, G., Nuto, Y., Kokou, K., 2009. **Effects of charcoal production on soil
+biodiversity and soil physical and chemical properties in Togo, West Africa.** Int. J. Biol.
+Chem. Sci. 3, 870–879.  [doi link](https://doi.org/10.4314/ijbcs.v3i5.51051)
 
 Forey, E., Barot, S., Decaëns, T., Langlois, E., Laossi, K.-R., Margerie, P., Scheu, S., Eisenhauer,
-N., 2011. Importance of earthworm-seed interaction for the composition and structure of
-plant communities: a review. Acta Oecol. 37, 594–603.  https://doi.org/10.1016/j.actao.2011.03.001
+N., 2011. **Importance of earthworm-seed interaction for the composition and structure of
+plant communities: a review.** Acta Oecol. 37, 594–603.  [doi link](https://doi.org/10.1016/j.actao.2011.03.001)
 
-Fry, W.E., 2012. Principles of Plant Disease Management. Academic Press, London, UK.
-Genesio, L., Miglietta, F., 2012. Surface albedo following biochar application in durum wheat.
-Environ. Res. Lett. 7, 014025.  http://dx.doi.org/10.1088/1748-9326/7/1/014025
+Fry, W.E., 2012. **Principles of Plant Disease Management.** Academic Press, London, UK.
+
+Genesio, L., Miglietta, F., 2012. **Surface albedo following biochar application in durum wheat.**
+Environ. Res. Lett. 7, 014025.  [doi link](https://doi.org/10.1088/1748-9326/7/1/014025)
 
 Glaser, B., Balashov, E., Haumaier, L., Guggenberger, G., Zech, W., 2000. Black carbon in density
 fractions of anthropogenic soils of the Brazilian Amazon region. Org. Geochem. 31, 669–678.  https://doi.org/10.1016/S0146-6380(00)00044-9
