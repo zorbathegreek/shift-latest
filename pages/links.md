@@ -107,7 +107,6 @@ Chen, J., Liu, X., Zheng, J., Zhang, B., Lu, H., Chi, Z., Pan, G., Li, L., Zheng
 Wang, J., Yu, X., 2013. Biochar soil amendment increased bacterial but decreased fungal
 gene abundance with shifts in community structure in a slightly acid rice paddy from
 Southwest China. Appl. Soil Ecol. 71, 33–44.34
-1. MICROBIAL ECOLOGY ANALYSIS OF BIOCHAR-AUGMENTED SOILS
 Cheng, Q., Huang, Q., Khan, S., Liu, Y., Liao, Z., Li, G., Ok, Y.S., 2016. Adsorption of
 Cd by peanut husks and peanut husk biochar from aqueous solutions. Ecol. Eng. 87,
 240–245.
