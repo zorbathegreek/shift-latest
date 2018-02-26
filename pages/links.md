@@ -6,29 +6,35 @@ permalink: /links/
 
 # Links to Scientific and other Literature
 
-If you have problems viewing doi links, [read this Sciencemag article](http://www.sciencemag.org/news/2016/04/whos-downloading-pirated-papers-everyone) or [this International Business Times page](http://www.ibtimes.co.uk/sci-hub-pirate-bay-scientists-now-available-anonymous-telegram-messaging-app-1560576)
+If you have problems viewing doi links, [read this Science article](http://www.sciencemag.org/news/2016/04/whos-downloading-pirated-papers-everyone) or [the International Business Times](http://www.ibtimes.co.uk/sci-hub-pirate-bay-scientists-now-available-anonymous-telegram-messaging-app-1560576) and get [Telegram](telegram.org) on your iPhone/Android/PC/Mac/laptop device. 
 
 ## Terra Preta
+
+Jörn PW Scharlemann, Edmund VJ Tanner, Roland Hiederer & Valerie Kapos
+(2014)   
+**Global soil carbon: understanding and managing the largest terrestrial carbon pool**, Carbon
+Management, 5:1, 81-91.  https://doi.org/10.4155/cmt.13.77
+
+The net is packed with charcoal/Terra Preta links; as an example, here are references from a recent book in doi format: 
 
 ### Biochar Application - Essential Soil Microbial Ecology 
 References from Chapter 1
 
-Abujabhah, I.S., Bound, S.A., Doyle, R., Bowman, J.P., 2016. **Effects of biochar and compost
-amendments on soil physico-chemical properties and the total community within a tem-
-perate agricultural soil.** Appl. Soil Ecol. 98, 243–253. https://doi.org/10.1016/j.apsoil.2015.10.021
+Abujabhah, I.S., Bound, S.A., Doyle, R., Bowman, J.P., 2016.  
+**Effects of biochar and compost
+amendments on soil physico-chemical properties and the total community within a temperate agricultural soil.** Appl. Soil Ecol. 98, 243–253. https://doi.org/10.1016/j.apsoil.2015.10.021
 
 Ahmad, M., Ok, Y.S., Kim, B.-Y., Ahn, J.-H., Lee, Y.H., Zhang, M., Moon, D.H., Al-Wabel, M.I.,
-Lee, S.S., 2016a. **Impact of soybean stover- and pine needle-derived biochars on Pb and as
-mobility, microbial community, and carbon stability in a contaminated agricultural soil.**
+Lee, S.S., 2016a.   
+**Impact of soybean stover- and pine needle-derived biochars on Pb and as mobility, microbial community, and carbon stability in a contaminated agricultural soil.** 
 J. Environ. Manag. 166, 131–139.  https://doi.org/10.1016/j.jenvman.2015.10.006
 
 Ahmad, M., Ok, Y.S., Rajapaksha, A.U., Lim, J.E., Kim, B.-Y., Ahn, J.-H., Lee, Y.H., Al-Wabel,
-M.I., Lee, S.-E., Lee, S.S., 2016b. **Lead and copper immobilization in a shooting range soil
-using soybean stover- and pine needle-derived biochars: chemical, microbial and spec-
-troscopic assessments.** J. Hazard Mater. 301, 179–186. https://doi.org/10.1016/j.jhazmat.2015.08.029
+M.I., Lee, S.-E., Lee, S.S., 2016b.   
+**Lead and copper immobilization in a shooting range soil using soybean stover- and pine needle-derived biochars: chemical, microbial and spectroscopic assessments.** 
+J. Hazard Mater. 301, 179–186. https://doi.org/10.1016/j.jhazmat.2015.08.029
 
-Anderson, C.R., Condron, L.M., Clough, T.J., Fiers, M., Stewart, A., Hill, R.A., Sherlock, R.R.,
-2011. **Biochar induced soil microbial community change: implications for biogeochemical
+Anderson, C.R., Condron, L.M., Clough, T.J., Fiers, M., Stewart, A., Hill, R.A., Sherlock, R.R., 2011. **Biochar induced soil microbial community change: implications for biogeochemical
 cycling of carbon, nitrogen and phosphorus.** Pedobiologia 54, 309–320.  https://doi.org/10.1016/j.pedobi.2011.07.005
 
 Anderson, C.R., Hamouts, K., Clough, T.J., Condron, L.M., 2014. **Biochar does not affect soil
@@ -51,8 +57,7 @@ Atkinson, C.J., Fitzgerald, J.D., Hipps, N.A., 2010. **Potential mechanism for a
 cultural benefits from biochar application to temperate soils: a review.** Plant Soil 337,
 1–18.  https://doi.org/10.1007/s11104-010-0464-5
 
-Barbosa Lima, A., Cannavan, F.S., Navarrete, A.A., Teixeira, W.G., Kuramae, E.E., Tsai, S.M.,
-2015. **Amazonian Dark Earth and plant species from the Amazon region contribute to
+Barbosa Lima, A., Cannavan, F.S., Navarrete, A.A., Teixeira, W.G., Kuramae, E.E., Tsai, S.M., 2015. **Amazonian Dark Earth and plant species from the Amazon region contribute to
 shape rhizosphere bacterial communities.** Microb. Ecol. 69, 855–866.  https://doi.org/10.1007/s00248-014-0472-8
 
 Basso, A.S., Miguez, F.E., Laird, D.A., Horton, R., Westgate, M., 2013. **Assessing potential of
@@ -102,355 +107,559 @@ green waste biochar as a soil amendment.** Aus. J. Soil Res. 45, 629–634.
 Chen, J., Liu, X., Li, L., Zheng, J., Qu, J., Zheng, J., Zhang, X., Pan, G., 2015. **Consistent increase
 in abundance and diversity but variable change in community composition of bacteria
 in topsoil of rice paddy under short term biochar treatment across three sites from South
-China.** Appl. Soil Ecol. 91, 68–79.
+China.** Appl. Soil Ecol. 91, 68–79.  https://doi.org/10.1016/j.apsoil.2015.02.012
+
 Chen, J., Liu, X., Zheng, J., Zhang, B., Lu, H., Chi, Z., Pan, G., Li, L., Zheng, J., Zhang, X.,
-Wang, J., Yu, X., 2013. Biochar soil amendment increased bacterial but decreased fungal
+Wang, J., Yu, X., 2013. **Biochar soil amendment increased bacterial but decreased fungal
 gene abundance with shifts in community structure in a slightly acid rice paddy from
-Southwest China. Appl. Soil Ecol. 71, 33–44.34
-Cheng, Q., Huang, Q., Khan, S., Liu, Y., Liao, Z., Li, G., Ok, Y.S., 2016. Adsorption of
-Cd by peanut husks and peanut husk biochar from aqueous solutions. Ecol. Eng. 87,
-240–245.
-Chikezie, V.O., 2011. Formation and Properties of Magnetic Biochar (MSc thesis). Teesside
-University.
-Dempster, D.N., Gleeson, D.B., Solaiman, Z.M., Jones, D.L., Murphy, D.V., 2012. Decreased
+Southwest China.** Appl. Soil Ecol. 71, 33–44.34  https://doi.org/10.1016/j.apsoil.2013.05.003
+
+Cheng, Q., Huang, Q., Khan, S., Liu, Y., Liao, Z., Li, G., Ok, Y.S., 2016. **Adsorption of
+Cd by peanut husks and peanut husk biochar from aqueous solutions.** Ecol. Eng. 87,
+240–245.  https://doi.org/10.1016/j.ecoleng.2015.11.045
+
+Chikezie, V.O., 2011. **Formation and Properties of Magnetic Biochar (MSc thesis).** Teesside
+University.  
+
+
+
+
+Dempster, D.N., Gleeson, D.B., Solaiman, Z.M., Jones, D.L., Murphy, D.V., 2012. **Decreased
 soil microbial biomass and nitrogen mineralization with Eucalyptus biochar addition to
-a coarse textured soil. Plant Soil 354, 311–324.
-Devi, P., Saroha, S., 2014. Synthesis of the magnetic biochar composites for use as an adsorbent
-for the removal of pentachlorophenol from the effluent. Bioresour. Technol. 169, 525–531.
+a coarse textured soil.** Plant Soil 354, 311–324.  https://doi.org/10.1007/s11104-011-1067-5
+
+Devi, P., Saroha, S., 2014. **Synthesis of the magnetic biochar composites for use as an adsorbent
+for the removal of pentachlorophenol from the effluent.** Bioresour. Technol. 169, 525–531.   https://doi.org/10.1016/j.biortech.2014.07.062
+
 Doan, T.T., Bouvier, C., Bettarel, Y., Bouvier, T., Henry-des-Tureaux, T., Janeau, J.L., Lamballe,
-P., Nguyen, B.V., Jouquet, P., 2014. Influence of buffalo manure, compost, vermicompost
+P., Nguyen, B.V., Jouquet, P., 2014. **Influence of buffalo manure, compost, vermicompost
 and biochar amendments on bacterial and viral communities in soil and adjacent aquatic
-systems. Appl. Soil Ecol. 73, 78–86.
-Domene, X., Hanley, K., Enders, A., Lehmann, J., 2015. Short-term mesofauna responses to
-soil additions of corn stover biochar and the role of microbial biomass. Appl. Soil Ecol.
-89, 10–17.
-Downie, A.E., Van Zwieten, L., Smernik, R.J., Morris, S., Munroe, P.R., 2011. Terra preta aus-
-tralis: reassessing the carbon storage capacity of temperate soils. Agric. Ecosyst. Environ.
-140, 137–147.
-Ducey, T.F., Ippolito, J.A., Cantrell, K.B., Novak, J.M., Lentz, R.D., 2013. Addition of activated
+systems.** Appl. Soil Ecol. 73, 78–86.  https://doi.org/10.1016/j.apsoil.2013.08.016
+
+Domene, X., Hanley, K., Enders, A., Lehmann, J., 2015. **Short-term mesofauna responses to
+soil additions of corn stover biochar and the role of microbial biomass.** Appl. Soil Ecol.
+89, 10–17.  https://doi.org/10.1016/j.apsoil.2014.12.005
+
+Downie, A.E., Van Zwieten, L., Smernik, R.J., Morris, S., Munroe, P.R., 2011. **Terra preta aus-
+tralis: reassessing the carbon storage capacity of temperate soils.** Agric. Ecosyst. Environ.
+140, 137–147.   https://doi.org/10.1016/j.agee.2010.11.020
+
+Ducey, T.F., Ippolito, J.A., Cantrell, K.B., Novak, J.M., Lentz, R.D., 2013. **Addition of activated
 switchgrass biochar to an aridic subsoil increases microbial nitrogen cycling gene abun-
-dances. Appl. Soil Ecol. 65, 65–72.
-Easton, Z.M., Rogers, M., Davis, M., Wade, J., Eick, M., Bock, E., 2015. Mitigation of sulfate
+dances.** Appl. Soil Ecol. 65, 65–72.  https://doi.org/10.1016/j.apsoil.2013.01.006
+
+Easton, Z.M., Rogers, M., Davis, M., Wade, J., Eick, M., Bock, E., 2015. **Mitigation of sulfate
 reduction and nitrous oxide emission in denitrifying environments with amorphous iron
-oxide and biochar. Ecol. Eng. 82, 605–613.
+oxide and biochar.** Ecol. Eng. 82, 605–613.  https://doi.org/10.1016/j.ecoleng.2015.05.008
+
 Elad, Y., David, D.R., Harel, Y.M., Borenshtein, M., Kalifa, H.B., Silber, A., Graber, E.R., 2010.
-Induction of systemic resistance in plants by biochar, a soil-applied carbon sequestering
-agent. Phytopathology 100, 913–921.
-Elmer, W.H., Pignatello, J.J., 2011. Effect of biochar amendments on mycorrhizal associations
-and Fusarium crown and root rot of asparagus in replant soils. Plant Dis. 95, 960–966.
-Ennis, C.J., Evans, G.A., Islam, M., Ralebitso-Senior, T.K., Senior, E., 2012. Biochar: carbon
-sequestration, land remediation and impacts on soil microbiology. Crit. Rev. Environ. Sci.
-Technol. 42, 2311–2364.
-Evangelou, M.W.H., Brem, A., Ugolini, F., Abiven, S., Schulin, R., 2014. Soil application of
-biochar produced from biomass grown on trace element contaminated land. J. Environ.
-Manag. 146, 100–106.
-Feng, Y., Xu, Y., Yu, Y., Xie, Z., Lin, X., 2012. Mechanisms of biochar decreasing methane emis-
-sion from Chinese paddy soils. Soil Biol. Biochem. 46, 80–88.
-Fierer, N., Jackson, R.B., 2006. The diversity and biogeography of soil bacterial communities.
-PNAS 103, 626–631.
-Fox, A., Kwapinski, W., Griffiths, B.S., Schmalenberger, A., 2014. The role of sulfur- and
-phosphorus-mobilizing bacteria in biochar-induced growth promotion of Lolium perenne.
-FEMS Microbiol. Ecol. 90, 78–91.
+**Induction of systemic resistance in plants by biochar, a soil-applied carbon sequestering
+agent.** Phytopathology 100, 913–921.  doi: 10.1094/PHYTO-100-9-0913  doi: 10.1094/PHYTO-100-9-0913
+
+Elmer, W.H., Pignatello, J.J., 2011. **Effect of biochar amendments on mycorrhizal associations
+and Fusarium crown and root rot of asparagus in replant soils.** Plant Dis. 95, 960–966.   https://doi.org/10.1094/PDIS-10-10-0741
+
+Ennis, C.J., Evans, G.A., Islam, M., Ralebitso-Senior, T.K., Senior, E., 2012. **Biochar: carbon
+sequestration, land remediation and impacts on soil microbiology.** Crit. Rev. Environ. Sci.
+Technol. 42, 2311–2364.  https://doi.org/10.1080/10643389.2011.574115
+
+Evangelou, M.W.H., Brem, A., Ugolini, F., Abiven, S., Schulin, R., 2014. **Soil application of
+biochar produced from biomass grown on trace element contaminated land.** J. Environ.
+Manag. 146, 100–106.  https://doi.org/10.1016/j.jenvman.2014.07.046
+
+Feng, Y., Xu, Y., Yu, Y., Xie, Z., Lin, X., 2012. **Mechanisms of biochar decreasing methane emis-
+sion from Chinese paddy soils.** Soil Biol. Biochem. 46, 80–88.   https://doi.org/10.1016/j.soilbio.2011.11.016
+
+Fierer, N., Jackson, R.B., 2006. **The diversity and biogeography of soil bacterial communities.**
+PNAS 103, 626–631.  https://doi.org/10.1073/pnas.0507535103
+
+Fox, A., Kwapinski, W., Griffiths, B.S., Schmalenberger, A., 2014. **The role of sulfur- and
+phosphorus-mobilizing bacteria in biochar-induced growth promotion of Lolium perenne.**
+FEMS Microbiol. Ecol. 90, 78–91.  DOI: 10.1111/1574-6941.12374
+
 Fry, W.E., 2012. Principles of Plant Disease Management. Academic Press, London, UK.
-Gai, X., Wang, H., Liu, J., Zhai, L., Liu, S., Ren, T., Liu, H., 2014. Effects of feedstock and
-pyrolysis temperature on biochar adsorption of Ammonium and nitrate. PLoS One 9, 12.
+
+Gai, X., Wang, H., Liu, J., Zhai, L., Liu, S., Ren, T., Liu, H., 2014. **Effects of feedstock and
+pyrolysis temperature on biochar adsorption of Ammonium and nitrate.** PLoS One 9, 12.  https://doi.org/10.1371/journal.pone.0113888
+
 Gärdenäs, A.I., Ågren, G.I., Bird, J.A., Clarholm, M., Hallin, S., Ineson, P., Kätterer, T., Knicker,
-H., Nilsson, I.S., Näsholm, T., Ogle, S., Paustian, K., Persson, T., Stendahl, J., 2010. Knowl-
-edge gaps in soil carbon and nitrogen interactions – from molecular to global scale. Soil
-Biol. Biochem. 43, 702–717.
-Genesio, L., Miglietta, F., 2012. Surface albedo following biochar application in durum wheat.
-Environ. Res. Lett. 7, 014025.References
-35
-Gomez-Eyles, J.L., Sizmur, T., Collins, C.D., Hodson, M.E., 2011. Effects of biochar and the
+H., Nilsson, I.S., Näsholm, T., Ogle, S., Paustian, K., Persson, T., Stendahl, J., 2010. **Knowl-
+edge gaps in soil carbon and nitrogen interactions – from molecular to global scale.** Soil
+Biol. Biochem. 43, 702–717.  https://doi.org/10.1016/j.soilbio.2010.04.006
+
+Genesio, L., Miglietta, F., 2012. **Surface albedo following biochar application in durum wheat.**
+Environ. Res. Lett. 7, 014025.References   http://iopscience.iop.org/article/10.1088/1748-9326/7/1/014025/pdf
+
+Gomez-Eyles, J.L., Sizmur, T., Collins, C.D., Hodson, M.E., 2011. **Effects of biochar and the
 earthworm Eisenia fetida on the bioavailability of polycyclic aromatic hydrocarbons and
-potentially toxic elements. Environ. Pollut. 159, 616–622.
-Graber, E.R., Frenkel, O., Jaiswal, A.K., Elad, Y., 2014. How may biochar influence the sever-
-ity of diseases caused by soilborne pathogens? Carbon Manag. 5, 169–183.
+potentially toxic elements.** Environ. Pollut. 159, 616–622.  https://doi.org/10.1016/j.envpol.2010.09.037
+
+Graber, E.R., Frenkel, O., Jaiswal, A.K., Elad, Y., 2014. **How may biochar influence the sever-
+ity of diseases caused by soilborne pathogens?** Carbon Manag. 5, 169–183.  https://doi.org/10.1080/17583004.2014.913360
+
 Graber, E.R., Harel, Y.M., Kolton, M., Cytryn, E., Silber, A., David, D.R., Tsechansky, L.,
-Borenshtein, M., Elad, Y., 2010. Biochar impact on development and productivity of pep-
-per and tomato grown in fertigated soilless media. Plant Soil 337, 481–496.
+Borenshtein, M., Elad, Y., 2010. 
+**Biochar impact on development and productivity of pepper and tomato grown in fertigated soilless media.** Plant Soil 337, 481–496.  https://doi.org/10.1007/s11104-010-0544-6
+
 Grossman, J.M., O’Neill, B.E., Tsai, S.M., Liang, B., Neves, E., Lehmann, J., Thies, J.E., 2010.
-Amazonian anthrosols support similar microbial communities that differ distinctly from
-those extant in adjacent, unmodified soils of the same mineralogy. Microb. Ecol. 60, 192–205.
+**Amazonian anthrosols support similar microbial communities that differ distinctly from
+those extant in adjacent, unmodified soils of the same mineralogy.** 
+Microb. Ecol. 60, 192–205.   doi: 10.1007/s00248-010-9689-3
+
 Hale, S.E., Elmquist, N., Brandlis, R., Hartnik, J., Jakob, L., Henriksen, T., Werner, D.,
-Cornelissen, G., 2012. Activated carbon amendment to sequester PAHs in contami-
-nated soil: a lysimeter field trial. Chemosphere 87, 177–184.
-Hale, L., Luth, M., Kenny, R., Crowley, D., 2014. Evaluation of pinewood biochar as a car-
-rier of bacterial strain Enterocbacter cloacae UW5 for soil inoculation. Appl. Soil Ecol. 84,
-192–199.
+Cornelissen, G., 2012. 
+**Activated carbon amendment to sequester PAHs in contaminated soil: a lysimeter field trial.**
+Chemosphere 87, 177–184.   https://doi.org/10.1016/j.chemosphere.2011.12.015
+
+Hale, L., Luth, M., Kenny, R., Crowley, D., 2014. 
+**Evaluation of pinewood biochar as a carrier of bacterial strain Enterocbacter cloacae UW5 for soil inoculation.** Appl. Soil Ecol. 84, 192–199.  https://doi.org/10.1016/j.apsoil.2014.08.001
+
 Hammer, E.C., Balogh-Brunstad, Z., Jakobsen, I., Olsson, P.A., Stipp, S.L.S., Rillig, M.C., 2014.
-A mycorrhizal fungus grows on biochar and captures phosphorus from its surfaces. Soil
-Biol. Biochem. 77, 252–260.
-Han, Y., Cao, X., Ouyang, X., Sohi, S., Chen, J., 2015a. Adsorption kinetics of magnetic biochar
-derived from peanut hull on removal of Cr (VI) from aqueous solution: effects of produc-
-tion conditions and particle size. Chemosphere 145, 336–341.
-Han, Z., Sani, B., Akkanen, J., Abel, S., Nybom, I., Karapanagioti, H.K., Werner, D., 2015b. A
-critical evaluation of magnetic activated carbon’s potential for the remediation of sedi-
-ment impacted by polycyclic aromatic hydrocarbons. J. Hazard. Mater. 286, 41–47.
-Hardie, M., Clothier, B., Bound, S., Oliver, G., Close, D., 2014. Does biochar influence soil
-physical properties and soil water availability? Plant Soil 376, 347–361.
+**A mycorrhizal fungus grows on biochar and captures phosphorus from its surfaces.**
+Soil Biol. Biochem. 77, 252–260.  https://doi.org/10.1016/j.soilbio.2014.06.012
+
+Han, Y., Cao, X., Ouyang, X., Sohi, S., Chen, J., 2015a. 
+**Adsorption kinetics of magnetic biochar derived from peanut hull on removal of Cr (VI) from aqueous solution: effects of production conditions and particle size.** 
+Chemosphere 145, 336–341.  https://doi.org/10.1016/j.chemosphere.2015.11.050
+
+Han, Z., Sani, B., Akkanen, J., Abel, S., Nybom, I., Karapanagioti, H.K., Werner, D., 2015b. 
+**A critical evaluation of magnetic activated carbon’s potential for the remediation of sediment impacted by polycyclic aromatic hydrocarbons.** https://doi.org/10.1016/j.jhazmat.2014.12.030
+J. Hazard. Mater. 286, 41–47.   
+
+Hardie, M., Clothier, B., Bound, S., Oliver, G., Close, D., 2014. 
+**Does biochar influence soil physical properties and soil water availability?** 
+Plant Soil 376, 347–361.  https://doi.org/10.1007/s11104-013-1980-x
+
 Harter, J., Krause, H.-M., Schuettler, S., Ruser, R., Fromme, M., Scholten, T., Kappler, A., Behrens,
-S., 2013. Linking N 2 O emissions from biochar-amended soil to the structure and function of
-the N-cycling microbial community. ISME J. 8, 660–674.
-He, L., Yang, H., Zhong, Z., Gong, P., Liu, Y., Lü, H., Yang, S., 2014. PCR-DGGE analysis of
-soil bacterium community diversity in farmland influenced by biochar. Acta Ecol. Sin.
-34, 4288–4294.
-He, L., Liu, Y., Zhao, J., Bi, Y., Zhao, X., Wang, S., Xing, G., 2015. Comparison of straw-­
-biochar-mediated changes in nitrification and ammonia oxidizers in agricultural oxisols
-and cambosols. Biol. Fert. Soils 13.
-Husson, O., 2013. Redox potential (E h ) and pH as drivers of soil/plant/microorganism sys-
-tems: a transdisciplinary overview pointing to integrative opportunities for agronomy.
-Plant Soil 362, 389–417.
-Jaafar, N.M., Clode, P.L., Abbott, L.K., 2015. Soil microbial responses to biochars varying in
-particle size, surface and pore properties. Pedosphere 25, 770–780.
-Jien, S.H., Wang, C.S., 2013. Effects of biochar on soil properties and erosion potential in a
-highly weathered soil. Catena 110, 225–233.
-Jindo, K., Suto, K., Matsumoto, K., García, C., Sonoki, T., Sanchez-Monedero, M.A., 2012.
-Chemical and biochemical characterisation of biochar-blended composts prepared from
-poultry manure. Bioresour. Technol. 110, 396–404.
-Jones, D.L., Rousk, J., Edwards-Jones, G., DeLuca, T.H., Murphy, D.V., 2012. Biochar-­
-mediated changes in soil quality and plant growth in a three year field trial. Soil Biol.
-Biochem. 45, 113–124.
+S., 2013. 
+**Linking N 2 O emissions from biochar-amended soil to the structure and function of the N-cycling microbial community.** 
+ISME J. 8, 660–674.   doi:10.1038/ismej.2013.160
+
+He, L., Yang, H., Zhong, Z., Gong, P., Liu, Y., Lü, H., Yang, S., 2014. 
+**PCR-DGGE analysis of soil bacterium community diversity in farmland influenced by biochar.** 
+Acta Ecol. Sin. 34, 4288–4294.
+
+He, L., Liu, Y., Zhao, J., Bi, Y., Zhao, X., Wang, S., Xing, G., 2015. 
+**Comparison of straw-­biochar-mediated changes in nitrification and ammonia oxidizers in agricultural oxisols
+and cambosols.** 
+Biol. Fert. Soils 13.   https://doi.org/10.1007/s00374-015-1059-3
+
+Husson, O., 2013. 
+**Redox potential (E h ) and pH as drivers of soil/plant/microorganism systems: a transdisciplinary overview pointing to integrative opportunities for agronomy.**
+Plant Soil 362, 389–417.  https://doi.org/10.1007/s11104-012-1429-7
+
+Jaafar, N.M., Clode, P.L., Abbott, L.K., 2015. 
+**Soil microbial responses to biochars varying in particle size, surface and pore properties.**
+Pedosphere 25, 770–780.  https://doi.org/10.1016/S1002-0160(15)30058-8
+
+Jien, S.H., Wang, C.S., 2013. 
+**Effects of biochar on soil properties and erosion potential in a highly weathered soil.**
+Catena 110, 225–233.   https://doi.org/10.1016/j.catena.2013.06.021
+
+Jindo, K., Suto, K., Matsumoto, K., García, C., Sonoki, T., Sanchez-Monedero, M.A., 2012.  
+**Chemical and biochemical characterisation of biochar-blended composts prepared from
+poultry manure.**
+Bioresour. Technol. 110, 396–404.   https://doi.org/10.1016/j.biortech.2012.01.120
+
+Jones, D.L., Rousk, J., Edwards-Jones, G., DeLuca, T.H., Murphy, D.V., 2012. 
+**Biochar-­mediated changes in soil quality and plant growth in a three year field trial.** 
+Soil Biol. Biochem. 45, 113–124.   https://doi.org/10.1016/j.soilbio.2011.10.012
+
 Joseph, S.D., Camps-Arbestain, M., Lin, Y., Munroe, P., Chia, C.H., Hook, J., van Zwieten, L.,
 Kimber, S., Cowie, A., Singh, B.P., Lehmann, J., Foidl, N., Smernik, R.J., Amonette, J.E.,
-2010. An investigation into the reactions of biochar in soil. Aus. J. Soil Res. 48, 501–515.36
-1. MICROBIAL ECOLOGY ANALYSIS OF BIOCHAR-AUGMENTED SOILS
-Keiluweit, M., Nico, P.S., Johnson, M.G., Kleber, M., 2010. Dynamic molecular structure of
-plant biomass-derived black carbon (biochar). Environ. Sci. Technol. 44, 1247–1253.
-Kim, J.S., Sparovek, G., Longo, R.M., De Melo, W.J., Crowley, D., 2007. Bacterial diversity of
-terra preta and pristine forest soil from the Western Amazon. Soil Biol. Biochem. 39, 684–690.
-Klos, P.Z., Link, T.E., Abatzoglou, J.T., 2014. Extent of the rain-snow transition zone in the
-western US under historic and projected climate. Geophys. Res. Lett. 41, 4560–4568.
-Kolton, M., Harel, Y.M., Pasternak, Z., Graber, E.R., Elad, Y., Cytryn, E., 2011. Impact of bio-
-char application to soil on the root-associated bacterial community structure of fully
-developed greenhouse pepper plants. Appl. Environ. Microbiol. 14, 4924–4930.
-Konz, J., Brett, C., van der Merwe, A.B., 2015. Assessment of the Potential to Produce Biochar
-and Its Application to South African Soils as a Mitigation Measure. Available at: https://
-www.environment.gov.za/sites/default/files/reports/biocharreport2015.pdf.
-Lee, J.W., Kidder, M., Evans, B.R., Paik, S., Ill, A.C.B., Garten, C.T., Brown, R.C., 2010. Char-
-acterization of biochars produced from cornstovers for soil amendment. Environ. Sci.
-Technol. 44, 7970–7974.
-Lehmann, J., 2007. Bio-energy in the black. Front. Ecol. Environ. 5, 381–387.
-Lehmann, J., Joseph, S. (Eds.), 2009. Biochar for Environmental Management Science and
-Technology. Earthscan, London.
-Lehmann, J., Joseph, S., 2015. Biochar for environmental management: an introduction. In:
-Lehmann, J., Joseph, S. (Eds.), Biochar for Environmental Management: Science, Technol-
-ogy and Implementation, second ed. Routledge, New York, pp. 1–14.
-Lehmann, J., Rilling, M.C., Thies, J., Masiello, C.A., Hockaday, W.C., Crowley, D., 2011. Bio-
-char effects on soil biota—a review. Soil Biol. Biochem. 43, 1812–1836.
-Lehmann, J., da Silva, J.P., Rondon, M., Cravo, M.S., Greenwood, J., Nehls, T., 2002. Slash-
-and-char-a feasible alternative for soil fertility management in the central Amazon. In:
-Proceedings of the 17th World Congress of Soil Science, pp. 1–12.
-Leibig, M.A., Franzluebbers, A.J., Follett, R.F., 2012. Managing Agricultural Greenhouse
-Gases: Coordinated Agricultural Research through GRACEnet to Address Our Changing
-Climate. Elsevier Inc, UK and USA.
-Leifeld, J., Fenner, S., Muller, M., 2007. Mobility of black carbon in grained peatland soils.
-Biogeosciences 4, 425–432.
-Li, H., Ye, X., Geng, Z., Zhou, H., Guo, X., Zhang, Y., Zhao, H., Wang, G., 2016. The influence
-of biochar type on long-term stabilization for Cd and Cu in contaminated paddy soils.
-J. Hazard. Mater. 304, 40–48.
+2010. 
+**An investigation into the reactions of biochar in soil.** 
+Aus. J. Soil Res. 48, 501–515.36   http://www.css.cornell.edu/faculty/lehmann/publ/AustJSoilRes%2048%2C%20501-515%2C%202010%20Joseph.pdf
+
+Keiluweit, M., Nico, P.S., Johnson, M.G., Kleber, M., 2010. 
+**Dynamic molecular structure of plant biomass-derived black carbon (biochar).** 
+Environ. Sci. Technol. 44, 1247–1253.   DOI: 10.1021/es9031419
+
+Kim, J.S., Sparovek, G., Longo, R.M., De Melo, W.J., Crowley, D., 2007. 
+**Bacterial diversity of terra preta and pristine forest soil from the Western Amazon.**
+Soil Biol. Biochem. 39, 684–690.   https://doi.org/10.1016/j.soilbio.2006.08.010
+
+Klos, P.Z., Link, T.E., Abatzoglou, J.T., 2014. 
+**Extent of the rain-snow transition zone in the western US under historic and projected climate.** 
+Geophys. Res. Lett. 41, 4560–4568.  DOI: 10.1002/2014GL060500
+
+Kolton, M., Harel, Y.M., Pasternak, Z., Graber, E.R., Elad, Y., Cytryn, E., 2011. 
+**Impact of biochar application to soil on the root-associated bacterial community structure of fully
+developed greenhouse pepper plants.**
+Appl. Environ. Microbiol. 14, 4924–4930.    doi: 10.1128/AEM.00148-11
+
+Konz, J., Brett, C., van der Merwe, A.B., 2015. 
+**Assessment of the Potential to Produce Biochar and Its Application to South African Soils as a Mitigation Measure.** 
+Available at: https:// www.environment.gov.za/sites/default/files/reports/biocharreport2015.pdf
+
+Lee, J.W., Kidder, M., Evans, B.R., Paik, S., Ill, A.C.B., Garten, C.T., Brown, R.C., 2010. 
+**Characterization of biochars produced from cornstovers for soil amendment.** 
+Environ. Sci. Technol. 44, 7970–7974.  DOI: 10.1021/es101337x
+
+Lehmann, J., 2007. 
+**Bio-energy in the black.** 
+Front. Ecol. Environ. 5, 381–387.   https://doi.org/10.1890/1540-9295(2007)5[381:BITB]2.0.CO;2
+
+Lehmann, J., Joseph, S. (Eds.), 2009. 
+**Biochar for Environmental Management Science and Technology.**
+Earthscan, London. 
+
+Lehmann, J., Joseph, S., 2015. 
+**Biochar for environmental management: an introduction.**
+In: Lehmann, J., Joseph, S. (Eds.), Biochar for Environmental Management: Science, Technol-
+ogy and Implementation, second ed. Routledge, New York, pp. 1–14.  http://www.biochar-international.org/images/Biochar_book_Chapter_1.pdf
+
+Lehmann, J., Rilling, M.C., Thies, J., Masiello, C.A., Hockaday, W.C., Crowley, D., 2011. 
+**Biochar effects on soil biota — a review.** 
+Soil Biol. Biochem. 43, 1812–1836.   https://doi.org/10.1016/j.soilbio.2011.04.022
+
+Lehmann, J., da Silva, J.P., Rondon, M., Cravo, M.S., Greenwood, J., Nehls, T., 2002. 
+**Slash-and-char - a feasible alternative for soil fertility management in the central Amazon.** 
+In: Proceedings of the 17th World Congress of Soil Science, pp. 1–12. https://pdfs.semanticscholar.org/4047/bd34182e80a0ba83413b16f77670b74e3dbd.pdf
+
+Leibig, M.A., Franzluebbers, A.J., Follett, R.F., 2012. 
+**Managing Agricultural Greenhouse Gases: Coordinated Agricultural Research through GRACEnet to Address Our Changing
+Climate.** 
+Elsevier Inc, UK and USA.   
+https://doi.org/10.1016/B978-0-12-386897-8.00001-2
+https://doi.org/10.1016/B978-0-12-386897-8.00003-6
+https://doi.org/10.1016/B978-0-12-386897-8.00004-8
+https://doi.org/10.1016/B978-0-12-386897-8.00005-X
+https://doi.org/10.1016/B978-0-12-386897-8.00006-1
+https://doi.org/10.1016/B978-0-12-386897-8.00007-3
+https://doi.org/10.1016/B978-0-12-386897-8.00008-5
+https://doi.org/10.1016/B978-0-12-386897-8.00009-7
+https://doi.org/10.1016/B978-0-12-386897-8.00010-3
+https://doi.org/10.1016/B978-0-12-386897-8.00011-5
+https://doi.org/10.1016/B978-0-12-386897-8.00012-7
+https://doi.org/10.1016/B978-0-12-386897-8.00013-9
+https://doi.org/10.1016/B978-0-12-386897-8.00014-0
+https://doi.org/10.1016/B978-0-12-386897-8.00015-2
+https://doi.org/10.1016/B978-0-12-386897-8.00016-4
+https://doi.org/10.1016/B978-0-12-386897-8.00017-6
+https://doi.org/10.1016/B978-0-12-386897-8.00018-8
+https://doi.org/10.1016/B978-0-12-386897-8.00019-X
+https://doi.org/10.1016/B978-0-12-386897-8.00020-6
+https://doi.org/10.1016/B978-0-12-386897-8.00021-8
+https://doi.org/10.1016/B978-0-12-386897-8.00023-1
+https://doi.org/10.1016/B978-0-12-386897-8.00024-3
+https://doi.org/10.1016/B978-0-12-386897-8.00025-5
+https://doi.org/10.1016/B978-0-12-386897-8.00026-7
+https://doi.org/10.1016/B978-0-12-386897-8.00027-9
+https://doi.org/10.1016/B978-0-12-386897-8.00028-0
+https://doi.org/10.1016/B978-0-12-386897-8.00029-2
+https://doi.org/10.1016/B978-0-12-386897-8.18001-5
+https://doi.org/10.1016/B978-0-12-386897-8.15001-6
+
+
+Leifeld, J., Fenner, S., Muller, M., 2007. 
+**Mobility of black carbon in grained peatland soils.**
+Biogeosciences 4, 425–432.   https://hal.archives-ouvertes.fr/hal-00297624/document
+
+Li, H., Ye, X., Geng, Z., Zhou, H., Guo, X., Zhang, Y., Zhao, H., Wang, G., 2016. 
+**The influence of biochar type on long-term stabilization for Cd and Cu in contaminated paddy soils.**
+J. Hazard. Mater. 304, 40–48.   https://doi.org/10.1016/j.jhazmat.2015.10.048
+
 Liang, B., Lehmann, J., Solomon, D., Kinyangi, J., Grossman, J., O’Neill, B., Skjemstad,
-J.O., Theis, J., Luizão, F.J., Peterson, J., Neves, E.G., 2006. Black carbon increases cation
-exchange capacity in soils. Soil Sci. Soc. Am. J. 70, 1719–1730.
-Liao, N., Li, Q., Zhang, W., Zhou, G., Ma, L., Min, W., Ye, J., Hou, Z., 2016. Effects of biochar
-on soil microbial community composition and activity in drip-irrigated desert soil. Eur.
-J. Soil Biol. 72, 27–34.
-Lima, I.M., Marshall, W.E., 2005. Granular activated carbons from broiler manure: physical,
-chemical and adsorptive properties. Bioresour. Technol. 96, 699–706.
-Liu, L., Shen, G., Sun, M., Cao, X., Shang, G., Chen, P., 2014. Effect of biochar on nitrous oxide
-emission and its potential mechanisms. J. Air Waste Manag. Assoc. 64, 894–902.
-Liu, W., Wang, S., Lin, P., Sun, H., Hou, J., Zuo, Q., Huo, R., 2015. Response of CaCl 2 -­
-extractable heavy metals, polychlorinated biphenyls, and microbial communities to
-biochar amendment in naturally contaminated soils. J. Soils Sediments 3, 1–10.
-Lu, W., Ding, W., Zhang, J., Zhang, H., Luo, J., Bolan, N., 2015a. Nitrogen amendment stimu-
-lated decomposition of maize straw-derived biochar in a sandy loam soil: a short-term
-study. PLoS One 10 (7), e0133131.
+J.O., Theis, J., Luizão, F.J., Peterson, J., Neves, E.G., 2006. 
+**Black carbon increases cation exchange capacity in soils.** 
+Soil Sci. Soc. Am. J. 70, 1719–1730.  http://www.css.cornell.edu/faculty/lehmann/publ/SoilSciSocAmJ%2070,%201719-1730,%202006%20Liang.pdf
+
+Liao, N., Li, Q., Zhang, W., Zhou, G., Ma, L., Min, W., Ye, J., Hou, Z., 2016. 
+**Effects of biochar on soil microbial community composition and activity in drip-irrigated desert soil.** 
+Eur. J. Soil Biol. 72, 27–34.  https://doi.org/10.1016/j.ejsobi.2015.12.008
+
+Lima, I.M., Marshall, W.E., 2005. 
+**Granular activated carbons from broiler manure: physical, chemical and adsorptive properties.** 
+Bioresour. Technol. 96, 699–706.   https://doi.org/10.1016/j.biortech.2004.06.021
+
+Liu, L., Shen, G., Sun, M., Cao, X., Shang, G., Chen, P., 2014. 
+**Effect of biochar on nitrous oxide emission and its potential mechanisms.** 
+J. Air Waste Manag. Assoc. 64, 894–902.  https://doi.org/10.1080/10962247.2014.899937
+
+Liu, W., Wang, S., Lin, P., Sun, H., Hou, J., Zuo, Q., Huo, R., 2015. 
+**Response of CaCl 2 -­ extractable heavy metals, polychlorinated biphenyls, and microbial communities to
+biochar amendment in naturally contaminated soils.**
+J. Soils Sediments 3, 1–10.   https://doi.org/10.3390/ijerph110303118
+
+Lu, W., Ding, W., Zhang, J., Zhang, H., Luo, J., Bolan, N., 2015a. 
+**Nitrogen amendment stimulated decomposition of maize straw-derived biochar in a sandy loam soil: a short-term
+study.**
+PLoS One 10 (7), e0133131.  https://doi.org/10.1371/journal.pone.0133131
+
 Lu, H., Lashari, M.S., Liu, X., Ji, H., Li, L., Zheng, J., Kibue, G.W., Joseph, S., Pan, G., 2015b.
-Changes in soil microbial community structure and enzyme activity with amendment of
-biochar-manure compost and pyroligneous solution in a saline soil from central China.
-Eur. J. Soil Biol. 70, 67–76.References
-37
-Lucheta, A.R., de Souza Cannavan, F., Roesch, L.F.W., Tsai, S.M., Kuramee, E.E., 2015. Fungal
-community assembly in the Amazonian Dark Earth. Microb. Ecol. 1–12.
-Mackie, K.A., Marhan, S., Ditterich, F., Schmidt, H.P., Kandeler, E., 2015. The effects of bio-
-char and compost amendments on copper immobilization and soil microorganisms in a
-temperate vineyard. Agric. Ecosyst. Environ. 201, 58–69.
-Makoto, K., Tamai, Y., Kim, Y.S., Koike, T., 2010. Buried charcoal layer and ectomycorrhizae
-cooperatively promote the growth of Larix gmelinii seedlings. Plant Soil 327, 143–152.
+**Changes in soil microbial community structure and enzyme activity with amendment of
+biochar-manure compost and pyroligneous solution in a saline soil from central China.**
+Eur. J. Soil Biol. 70, 67–76.References   https://doi.org/10.1016/j.ejsobi.2015.07.005
+
+Lucheta, A.R., de Souza Cannavan, F., Roesch, L.F.W., Tsai, S.M., Kuramee, E.E., 2015. 
+**Fungal community assembly in the Amazonian Dark Earth.** 
+Microb. Ecol. 1–12.   doi: 10.1007/s00248-015-0703-7
+
+Mackie, K.A., Marhan, S., Ditterich, F., Schmidt, H.P., Kandeler, E., 2015. 
+**The effects of biochar and compost amendments on copper immobilization and soil microorganisms in a
+temperate vineyard.** 
+Agric. Ecosyst. Environ. 201, 58–69.  https://doi.org/10.1016/j.agee.2014.12.001
+
+Makoto, K., Tamai, Y., Kim, Y.S., Koike, T., 2010. 
+**Buried charcoal layer and ectomycorrhizae cooperatively promote the growth of Larix gmelinii seedlings.** 
+Plant Soil 327, 143–152.   https://doi.org/10.1007/s11104-009-0040-z
+
 Masiello, C.A., Chen, Y., Gao, X., Liu, S., Cheng, H.-Y., Bennett, M.R., Rudgers, J.A., Wagner,
-D.S., Zygourakis, K., Silberg, J.J., 2013. Biochar and microbial signalling: production
-conditions determine effects on microbial communication. Environ. Sci. Technol. 47,
-11496–11503.
-McCormack, S., Ostle, N., Bardgett, R.D., Hopkin, D.W., VanBergen, A.J., 2013. Biochar in
-bioenergy cropping systems: impacts on soil faunal communities and linked ecosystem
-processes. GCB Bioenergy 5, 81–95.
-Meyer, S., Bright, R.M., Fischer, D., Schulz, H., Glaser, B., 2012. Albedo impact on the suitabil-
-ity of biochar systems to mitigate global warming. Environ. Sci. Technol. 46, 12726–12734.
-Meynet, P., Moliterni, E., Davenport, R.J., Sloan, W.T., Camacho, J.V., Werner, D., 2014. Pre-
-dicting the effects of biochar on volatile petroleum hydrocarbon biodegradation and
+D.S., Zygourakis, K., Silberg, J.J., 2013. 
+**Biochar and microbial signalling: production conditions determine effects on microbial communication.** 
+Environ. Sci. Technol. 47, 11496–11503.   https://dx.doi.org/10.1021%2Fes401458s
+
+McCormack, S., Ostle, N., Bardgett, R.D., Hopkin, D.W., VanBergen, A.J., 2013. 
+**Biochar in bioenergy cropping systems: impacts on soil faunal communities and linked ecosystem
+processes.** 
+GCB Bioenergy 5, 81–95.  DOI: 10.1111/gcbb.12046
+
+Meyer, S., Bright, R.M., Fischer, D., Schulz, H., Glaser, B., 2012. 
+**Albedo impact on the suitability of biochar systems to mitigate global warming.** 
+Environ. Sci. Technol. 46, 12726–12734.   DOI: 10.1021/es302302g
+
+Meynet, P., Moliterni, E., Davenport, R.J., Sloan, W.T., Camacho, J.V., Werner, D., 2014. 
+**Predicting the effects of biochar on volatile petroleum hydrocarbon biodegradation and
 emanation from soil: a bacterial community finger-print analysis inferred modelling
-approach. Soil Biol. Biochem. 68, 20–30.
+approach.**
+Soil Biol. Biochem. 68, 20–30.  https://doi.org/10.1016/j.soilbio.2013.09.015
+
 Mia, S., van Groenigen, J.W., van de Voorde, T.F.J., Oram, N.J., Bezemer, T.M., Mommer, L.,
-Jeffery, S., 2014. Biochar application rate affects biological nitrogen fixation in red clover
-conditional on potassium availability. Agric. Ecosyst. Environ. 191, 83–91.
-Mitchell, P.J., Simpson, A.J., Soong, R., Simpson, M.J., 2015. Shifts in microbial community
-and water-extractable organic matter composition with biochar amendment in a temper-
-ate forest soil. Soil Biol. Biochem. 81, 244–254.
-Mizuta, K., Matsumoto, T., Hatate, Y., Nishihara, K., Nakanishi, T., 2004. Removal of nitrate nitro-
-gen from drinking water using bamboo powder charcoal. Bioresour. Technol. 95, 255–257.
-Mukherjee, A., Zimmerman, A.R., Harris, W., 2011. Surface chemistry variations among a
-series of laboratory-produced biochars. Geoderma 163, 155–247.
-Muyzer, G., 1999. DGGE/TGGE a method for identifying genes from natural ecosystems.
-Curr. Opin. Microbiol. 2, 317–322.
-Muyzer, G., de Waal, E.C., Uitterlinden, A.G., 1993. Profiling of complex microbial popula-
-tions by denaturing gradient gel electrophoresis analysis of polymerase chain reaction-
-amplified genes coding for 16S rRNA. Appl. Environ. Microbiol. 59, 695–700.
-Navarrete, A.A., Cannavan, F.S., Taketani, R.G., Tsai, S.M., 2010. A molecular survey of the
-diversity of microbial communities in different Amazonian agricultural model systems.
-Diversity 2 (5), 787–809.
+Jeffery, S., 2014. 
+**Biochar application rate affects biological nitrogen fixation in red clover
+conditional on potassium availability.** 
+Agric. Ecosyst. Environ. 191, 83–91.   https://doi.org/10.1016/j.agee.2014.03.011
+
+Mitchell, P.J., Simpson, A.J., Soong, R., Simpson, M.J., 2015. 
+**Shifts in microbial community and water-extractable organic matter composition with biochar amendment in a temperate forest soil.** 
+Soil Biol. Biochem. 81, 244–254.   https://doi.org/10.1016/j.soilbio.2014.11.017
+
+Mizuta, K., Matsumoto, T., Hatate, Y., Nishihara, K., Nakanishi, T., 2004. 
+**Removal of nitrate nitrogen from drinking water using bamboo powder charcoal.** 
+Bioresour. Technol. 95, 255–257.  https://doi.org/10.1016/j.biortech.2004.02.015
+
+Mukherjee, A., Zimmerman, A.R., Harris, W., 2011. 
+**Surface chemistry variations among a series of laboratory-produced biochars.**
+Geoderma 163, 155–247.   https://doi.org/10.1016/j.geoderma.2011.04.021
+
+Muyzer, G., 1999. 
+**DGGE/TGGE a method for identifying genes from natural ecosystems.**
+Curr. Opin. Microbiol. 2, 317–322.  https://doi.org/10.1016/S1369-5274(99)80055-1
+
+Muyzer, G., de Waal, E.C., Uitterlinden, A.G., 1993. 
+**Profiling of complex microbial populations by denaturing gradient gel electrophoresis analysis of polymerase chain reaction-amplified genes coding for 16S rRNA.** 
+Appl. Environ. Microbiol. 59, 695–700.   https://www.ncbi.nlm.nih.gov/pmc/articles/PMC202176/pdf/aem00032-0049.pdf
+
+Navarrete, A.A., Cannavan, F.S., Taketani, R.G., Tsai, S.M., 2010. 
+**A molecular survey of the diversity of microbial communities in different Amazonian agricultural model systems.**
+Diversity 2 (5), 787–809.  https://pdfs.semanticscholar.org/79c7/5ee103c3ba446a423c33ccc386dfc3f0ae8a.pdf
+
 Navarrete, A.A., Taketani, R.G., Mendes, L.W., de Souza Cannavan, F., de Souza Moreira,
-F.M., Tsai, S.M., 2011. Land-use systems affect Archaeal community structure and func-
-tional diversity in western Amazon soils. Rev. Bras. Ciên. Solo 35, 1527–1540.
+F.M., Tsai, S.M., 2011. 
+**Land-use systems affect Archaeal community structure and functional diversity in western Amazon soils.** 
+Rev. Bras. Ciên. Solo 35, 1527–1540.  http://dx.doi.org/10.1590/S0100-06832011000500007
+
 Noguera, D., Rondón, M., Laossi, K.R., Hoyos, V., Lavelle, P., de Carvalho, M.H.C., Barot, S.,
-2010. Contrasted effect of biochar and earthworms on rice growth and resource allocation
-in different soils. Soil Biol. Biochem. 42, 1017–1027.
+2010. 
+**Contrasted effect of biochar and earthworms on rice growth and resource allocation
+in different soils.** 
+Soil Biol. Biochem. 42, 1017–1027.   https://doi.org/10.1016/j.soilbio.2010.03.001
+
 Novak, J.M., Lima, I., Xing, B., Gaskin, J.W., Steinera, C., Das, K.C., Ahmedna, M., Rehrah,
-D., Watts, D.W., Busscher, W.J., Schomberg, H., 2009. Characterization of designer biochar
-produced at different temperatures and their effects on a loamy sand. Ann. Environ. Sci.
-3, 195–206.
-Noyce, G.L., Basiliko, N., Fultorpe, R., Sackett, T.E., Thomas, S.C., 2015. Soil Microbial
-responses over 2 years following biochar addition to a north temperate forest. Biol. Fert.
-Soils 51, 649–659.
+D., Watts, D.W., Busscher, W.J., Schomberg, H., 2009. 
+**Characterization of designer biochar produced at different temperatures and their effects on a loamy sand.**
+Ann. Environ. Sci. 3, 195–206.  https://www.ars.usda.gov/ARSUserFiles/60820000/Manuscripts/2009/Man822.pdf
+
+Noyce, G.L., Basiliko, N., Fultorpe, R., Sackett, T.E., Thomas, S.C., 2015. 
+**Soil Microbial responses over 2 years following biochar addition to a north temperate forest.** 
+Biol. Fert. Soils 51, 649–659.  https://doi.org/10.1007/s00374-015-1010-7
+
 Ortega-Calvo, J., Tejeda-Agredano, M., Jimenez-Sanchez, C., Congiu, E., Sungthong, R.,
-Niqui-Arroyo, J., Cantos, M., 2013. Is it possible to increase bioavailability but not envi-
-ronmental risk of PAHs in bioremediation? J. Hazard. Mater. 261, 733–745.38
-1. MICROBIAL ECOLOGY ANALYSIS OF BIOCHAR-AUGMENTED SOILS
+Niqui-Arroyo, J., Cantos, M., 2013. 
+**Is it possible to increase bioavailability but not environmental risk of PAHs in bioremediation?**
+J. Hazard. Mater. 261, 733–745.38   https://doi.org/10.1016/j.jhazmat.2013.03.042
+
 Ortega-Calvo, J.J., Harmsen, J., Parsons, J.R., Semple, K.T., Aitken, M.D., Ajao, C., Eadsforth,
 C., Galay-Burgos, M., Naidu, R., Oliver, R., Peijnenburg, W.J., Roembke, J., Streck, G.,
-Versonnen, B., 2015. From bioavailability science to regulation of organic chemicals.
-Environ. Sci. Technol. 49, 10255–10264.
-Paz-Ferreiro, J., Liang, C., Fu, S., Mendez, A., Gasco, G., 2015. The effect of biochar and its
-interaction with the earthworm Pontoscolex corethrurus on soil microbial community
-structure in tropical soils. PLoS One 10.
-Quilliam, R.S., Deluca, T.H., Jones, D.L., 2013. Biochar application reduces nodulation but
-increases nitrogenase activity in clover. Plant Soil 366, 83–92.
-Reddy, K.R., Yargicoglu, E.N., Yue, D., Yaghoubi, P., 2014. Enhanced microbial methane oxi-
-dation in landfill cover soil amended with biochar. J. Geotech. Geoenviron. 140, 9.
-Rittl, T.F., Arts, B., Kuyper, T.W., 2015. Biochar: an emerging policy arrangement in Brazil?
-Environ. Sci. Policy 51, 45–55.
-Rondon, M., Ramirez, J.A., Lehmann, J., 2005. Charcoal additions reduce net emissions of
-greenhouse gases to the atmosphere. In: Proceedings of the 3rd USDA Symposium on
-Greenhouse Gases and Carbon Sequestration, Baltimore, USA, March 21–24, 2005, p. 208.
-Seo, D.C., DeLaune, R.D., 2010. Effect of redox conditions on bacterial and fungal biomass
-and carbon dioxide production in Louisiana coastal swamp forest sediment. Sci. Total
-Environ. 408, 3623–3631.
-Scholz, S.M., Sebres, T., Roberts, K., Whitman, T., Wilson, K., Lehmann, J., 2014. Biochar Sys-
-tems for Smallholders in Developing Countries. World Bank Publications, Washington DC.
+Versonnen, B., 2015. 
+**From bioavailability science to regulation of organic chemicals.**
+Environ. Sci. Technol. 49, 10255–10264.  DOI: 10.1021/acs.est.5b02412
+
+Paz-Ferreiro, J., Liang, C., Fu, S., Mendez, A., Gasco, G., 2015. 
+**The effect of biochar and its interaction with the earthworm Pontoscolex corethrurus on soil microbial community
+structure in tropical soils.**
+PLoS One 10. https://doi.org/10.1371/journal.pone.0124891
+
+Quilliam, R.S., Deluca, T.H., Jones, D.L., 2013. 
+**Biochar application reduces nodulation but increases nitrogenase activity in clover.** 
+Plant Soil 366, 83–92.   https://doi.org/10.1007/s11104-012-1411-4
+
+Reddy, K.R., Yargicoglu, E.N., Yue, D., Yaghoubi, P., 2014. 
+**Enhanced microbial methane oxidation in landfill cover soil amended with biochar.** 
+J. Geotech. Geoenviron. 140, 9.  https://doi/.org/10.1061/(ASCE)GT.1943-5606.0001148
+
+Rittl, T.F., Arts, B., Kuyper, T.W., 2015. 
+**Biochar: an emerging policy arrangement in Brazil?**
+Environ. Sci. Policy 51, 45–55.   https://doi.org/10.1016/j.envsci.2015.03.010
+
+Rondon, M., Ramirez, J.A., Lehmann, J., 2005. 
+**Charcoal additions reduce net emissions of greenhouse gases to the atmosphere.** 
+In: Proceedings of the 3rd USDA Symposium on Greenhouse Gases and Carbon Sequestration, Baltimore, USA, March 21–24, 2005, p. 208.  www.biochar-international.org/node/924
+
+Seo, D.C., DeLaune, R.D., 2010. 
+**Effect of redox conditions on bacterial and fungal biomass and carbon dioxide production in Louisiana coastal swamp forest sediment.** 
+Sci. Total Environ. 408, 3623–3631.  https://doi.org/10.1016/j.scitotenv.2010.04.043
+
+Scholz, S.M., Sebres, T., Roberts, K., Whitman, T., Wilson, K., Lehmann, J., 2014. 
+**Biochar Systems for Smallholders in Developing Countries.** 
+World Bank Publications, Washington DC.   https://openknowledge.worldbank.org/bitstream/handle/10986/18781/888880PUB0Box30lso0784070June122014.pdf?sequence=1&isAllowed=y
+
 Shan, D., Deng, S., Zhao, T., Wang, B., Wang, Y., Huang, J., Yu, G., Winglee, J., Wiesner,
-M.R., 2016. Preparation of ultrafine magnetic biochar and activated carbon for pharma-
-ceutical adsorption and subsequent degradation by ball milling. J. Hazard. Mater. 305,
-156–163.
-Shen, M., Xia, X., Wang, F., Zhang, P., Zhao, X., 2012. Influences of multiwalled car-
-bon nanotubes and plant residue chars on bioaccumulation of polycyclic aromatic
-hydrocarbons by Chironomus plumosus larvae in sediment. Environ. Toxicol. Chem. 31,
-202–209.
-Singh, B.P., Cowie, A.L., 2008. A novel approach, using 13 C natural abundance, for measuring
-decomposition of biochars in soil. In: LD Currie, Yates, L.J. (Eds.), Carbon and Nutrient
-Management in Agriculture, Fertilizer and Lime Research Centre Workshop Proceedings.
-Massey University, Palmerston North, New Zealand, p. 549.
-Sohi, S.P., Krull, E., Lopez-Capel, E., Bol, R., 2010. A review of biochar and its use and func-
-tion in soil. In: Sparks, D. (Ed.), Advances in Agronomy, vol. 105. Elsevier, pp. 47–82.
-Sohi, S., Lopez-Capel, E., Krull, E., Bol, R., 2009. Biochar, Climate Change and Soil: A Review
-to Guide Future Research. CSIRO Land and Water Science Report.
-Sohi, S., Shackley, S., 2010. An Assessment of the Benefits and Issues Associated with the
-Application of Biochar to Soil. UK Biochar Research Centre.
-Song, Y.-J., Zhang, X.-L., Gong, J., 2014. Effects of biochar amendment on the abundance and
-community structure of nitrogen-fixing microbes in a coastal alkaline soil. Chinese J. Ecol.
-33 (8), 2168–2175.
+M.R., 2016. 
+**Preparation of ultrafine magnetic biochar and activated carbon for pharmaceutical adsorption and subsequent degradation by ball milling.**
+J. Hazard. Mater. 305, 156–163.  doi: 10.1016/j.jhazmat.2015.11.047
+
+Shen, M., Xia, X., Wang, F., Zhang, P., Zhao, X., 2012. 
+**Influences of multiwalled carbon nanotubes and plant residue chars on bioaccumulation of polycyclic aromatic
+hydrocarbons by Chironomus plumosus larvae in sediment.** 
+Environ. Toxicol. Chem. 31, 202–209.   DOI: 10.1002/etc.722
+
+Singh, B.P., Cowie, A.L., 2008. 
+**A novel approach, using 13 C natural abundance, for measuring decomposition of biochars in soil.** 
+In: LD Currie, Yates, L.J. (Eds.), Carbon and Nutrient Management in Agriculture, Fertilizer and Lime Research Centre Workshop Proceedings. Massey University, Palmerston North, New Zealand, p. 549.
+
+Sohi, S.P., Krull, E., Lopez-Capel, E., Bol, R., 2010. 
+**A review of biochar and its use and function in soil.**
+In: Sparks, D. (Ed.), Advances in Agronomy, vol. 105. Elsevier, pp. 47–82.  https://doi.org/10.1016/S0065-2113(10)05002-9
+
+Sohi, S., Lopez-Capel, E., Krull, E., Bol, R., 2009. 
+**Biochar, Climate Change and Soil: A Review to Guide Future Research.** 
+CSIRO Land and Water Science Report. Sohi, S., Shackley, S., 2010. An Assessment of the Benefits and Issues Associated with the Application of Biochar to Soil. UK Biochar Research Centre.  http://www.feasta.org/wp-content/uploads/2009/03/csiro-biochar-climate-change-and-soil-report-feb-20091.pdf
+
+Song, Y.-J., Zhang, X.-L., Gong, J., 2014. 
+**Effects of biochar amendment on the abundance and community structure of nitrogen-fixing microbes in a coastal alkaline soil.** 
+Chinese J. Ecol. 33 (8), 2168–2175.  https://doi.org/10.1186/s13568-017-0498-7
+
 Spokas, K.A., Cantrell, K.B., Novak, J.M., Archer, D.W., Ippolito, J.A., Collins, H.P., Boateng,
-A.A., Lima, I.M., Lamb, M.C., McAloon, A.J., Lentz, R.D., Nichols, K.Z., 2012. Biochar:
-a synthesis of its agronomic impact beyond carbon sequestration. J. Environ. Qual. 41,
-973–989.
-Spokas, S.A., Koskinen, W.C., Baker, J.M., Reicosky, D.C., 2009. Impacts of woodchip biochar
-addition on greenhouse gas production and sorption/degradation of two herbicides in a
-Minnesota soil. Chemosphere 77, 574–581.
-Song, Y., Wang, F., Bian, Y., Kengara, F.O., Jia, M., Xie, Z., Jiang, X., 2012. Bioavailability
-assessment of hexachlorobenzene in soil as affected by wheat straw biochar. J. Hazard.
-Mater. 217, 391–397.References
-39
-Steinbeiss, S., Gleixner, G., Antonietti, M., 2009. Effect of biochar amendment on soil carbon
-balance and soil microbial activity. Soil Biol. Biochem. 41, 1301–1310.
+A.A., Lima, I.M., Lamb, M.C., McAloon, A.J., Lentz, R.D., Nichols, K.Z., 2012. 
+**Biochar: a synthesis of its agronomic impact beyond carbon sequestration.** 
+J. Environ. Qual. 41, 973–989.    doi: 10.2134/jeq2011.0069
+
+Spokas, S.A., Koskinen, W.C., Baker, J.M., Reicosky, D.C., 2009. 
+**Impacts of woodchip biochar addition on greenhouse gas production and sorption/degradation of two herbicides in a
+Minnesota soil.** 
+Chemosphere 77, 574–581.  doi: 10.1016/j.chemosphere.2009.06.053
+
+Song, Y., Wang, F., Bian, Y., Kengara, F.O., Jia, M., Xie, Z., Jiang, X., 2012. 
+**Bioavailability assessment of hexachlorobenzene in soil as affected by wheat straw biochar.** 
+J. Hazard.Mater. 217, 391–397.References  https://doi.org/10.1016/j.jhazmat.2012.03.055
+
+Steinbeiss, S., Gleixner, G., Antonietti, M., 2009. 
+**Effect of biochar amendment on soil carbon balance and soil microbial activity.** 
+Soil Biol. Biochem. 41, 1301–1310.  https://doi.org/10.1016/j.soilbio.2009.03.016
+
 Stone, D., Blomkvist, P., Hendriksen, N.B., Bonkowski, M., Jørgensen, H.B., Carvalho, F.,
 Dunbar, M.B., Gardi, C., Geisen, S., Griffiths, R., Hug, A.S., Jensen, J., Laudon, H., Mendes,
 S., Morais, P.V., Orgiazzi, A., Plassart, P., Römbke, J., Rutgers, M., Schmelz, R.M., Sousa,
 J.P., Steenbergen, E., Suhadolc, M., Winding, A., Zupan, M., Lemanceau, P., Creamer, R.E.,
-2016. A method of establishing a transect for biodiversity and ecosystem function moni-
-toring across. Eur. Appl. Soil Ecol. 97, 3–11.
+2016. 
+**A method of establishing a transect for biodiversity and ecosystem function monitoring across Europe** 
+Appl. Soil Ecol. 97, 3–11.  https://doi.org/10.1016/j.apsoil.2015.06.017 
+
 Su, P., Lou, J., Brookes, P.C., Lou, Y., He, Y., Xu, J., 2015. Taxon-specific responses of soil
 microbial communities to different soil priming effects induced by addition of plant
-residues and their biochars. J. Soils Sediments 1–11. http://dx.doi.org/10.1007/
-s11368-015-1238-8.
-Sun, D., Jun, M., Zhang, W., Guan, X., Huang, Y., Lan, Y., Gao, J., Chen, W., 2012. Implication
-of temporal dynamics of microbial abundance and nutrients to soil fertility under biochar
+residues and their biochars. J. Soils Sediments 1–11. http://dx.doi.org/10.1007/s11368-015-1238-8.
+
+Sun, D., Jun, M., Zhang, W., Guan, X., Huang, Y., Lan, Y., Gao, J., Chen, W., 2012. 
+**Implication of temporal dynamics of microbial abundance and nutrients to soil fertility under biochar
 application – field experiments conducted in a brown soil cultivated with soybean, north
-China. Adv. Mat. Res. 518–523, 384–394.
-Sun, D., Meng, J., Chen, W., 2013. Effects of abiotic components induced by biochar on micro-
-bial communities. Acta Agric. Scand. Sec. B Soil Plant Sci. 63, 633–641.
+China.**
+Adv. Mat. Res. 518–523, 384–394.   10.4028/www.scientific.net/AMR.518-523.384
+
+Sun, D., Meng, J., Chen, W., 2013. 
+**Effects of abiotic components induced by biochar on microbial communities.** 
+Acta Agric. Scand. Sec. B Soil Plant Sci. 63, 633–641.  https://doi.org/10.1080/09064710.2013.838991
+
 Sun, D., Meng, J., Liang, H., Yang, E., Huang, Y., Chen, W., Jiang, L., Lan, Y., Zhang, W., Gao,
-J., 2014. Effect of volatile organic compounds absorbed to fresh biochar on survival of
-Bacillus mucilaginosus and structure of soil microbial communities. J. Soils Sediments 15 (2),
-271–281.
-Sun, D., Meng, J., Xu, E.G., Chen, W., 2016. Microbial community structure and predicted
-bacterial metabolic functions in biochar pellets aged in soil after 34 months. Appl. Soil
-Ecol. 100, 135–143.
+J., 2014. 
+**Effect of volatile organic compounds absorbed to fresh biochar on survival of Bacillus mucilaginosus and structure of soil microbial communities.** 
+J. Soils Sediments 15 (2), 271–281.  https://doi.org/10.1007/s11368-014-0996-z
+
+Sun, D., Meng, J., Xu, E.G., Chen, W., 2016. 
+**Microbial community structure and predicted bacterial metabolic functions in biochar pellets aged in soil after 34 months.**
+Appl. SoilEcol. 100, 135–143.   https://doi.org/10.1016/j.apsoil.2015.12.012
+
 Taketani, R.G., Lima, A.B., Da Conceição Jesus, E., Teixeira, W.G., Tiedje, J.M., Tsai, S.M.,
-2013. Bacterial community composition of anthropogenic biochar and Amazonian
-anthrosols assessed by 16S rRNA gene 454 pyrosequencing. Antonie van Leeuwenhoek
-104, 233–242.
-Taketani, R.G., Tsai, S.M., 2010. The influence of different land uses on the structure of
-archaeal communities in Amazonian anthrosols based on 16S rRNA and amoA genes.
-Microb. Ecol. 59, 734–743.
-Tammeorg, P., Parviainen, T., Nuutinen, V., Simojoki, A., Vaara, E., Helenius, J., 2014. Effects
-of biochar on earthworms in arable soil: avoidance test and field trial in boreal loamy
-sand. Agric. Ecosyst. Environ 191, 150–157.
-Thies, J.E., Rillig, M.C., Graber, E.R., 2015. Biochar effects on the abundance, activity and
-diversity of the soil biota. In: Lehmann, J., Joseph, S. (Eds.), Biochar for Environmental
-Management: Science, Technology and Implementation, second ed. Earthscan Publica-
-tions Ltd, London, UK.
+2013. 
+**Bacterial community composition of anthropogenic biochar and Amazonian anthrosols assessed by 16S rRNA gene 454 pyrosequencing.** 
+Antonie van Leeuwenhoek 104, 233–242. https://doi.org/10.1007/s10482-013-9942-0
+
+Taketani, R.G., Tsai, S.M., 2010. 
+**The influence of different land uses on the structure of archaeal communities in Amazonian anthrosols based on 16S rRNA and amoA genes.**
+Microb. Ecol. 59, 734–743.  https://doi.org/10.1007/s00248-010-9638-1
+
+Tammeorg, P., Parviainen, T., Nuutinen, V., Simojoki, A., Vaara, E., Helenius, J., 2014. 
+**Effects of biochar on earthworms in arable soil: avoidance test and field trial in boreal loamy
+sand.** 
+Agric. Ecosyst. Environ 191, 150–157.   https://doi.org/10.1016/j.agee.2014.02.023
+
+Thies, J.E., Rillig, M.C., Graber, E.R., 2015. 
+**Biochar effects on the abundance, activity and diversity of the soil biota.** 
+In: Lehmann, J., Joseph, S. (Eds.), Biochar for Environmental Management: Science, Technology and Implementation, second ed. Earthscan Publications Ltd, London, UK.  https://www.researchgate.net/profile/Janice_Thies/publication/283435189_Biochar_effects_on_the_abundance_activity_and_diversity_of_the_soil_biota/links/570e59b808aecd31ec9a77d5/Biochar-effects-on-the-abundance-activity-and-diversity-of-the-soil-biota.pdf
+
 Verheijen, F.G.A., Jeffery, S., van der Velde, M., Penizek, V., Beland, M., Bastos, A.C., Keizer,
-J.J., 2013. Reductions in soil surface albedo as a function of biochar application rate: impli-
-cations for global radiative forcing. Environ. Res. Lett. 8, 44008.
-Verheijen, F., Jeffery, S., Bastos, A.C., van der Velde, M., Diafas, I., 2010. Biochar Application
-to Soils: A Critical Scientific Review of Effects on Soil Properties, Process and Functions.
-JRC Scientific and Technical Reports. European Communities, Luxembourg.
+J.J., 2013. 
+**Reductions in soil surface albedo as a function of biochar application rate: impli-
+cations for global radiative forcing.**
+Environ. Res. Lett. 8, 44008.   http://iopscience.iop.org/article/10.1088/1748-9326/8/4/044008/pdf
+
+Verheijen, F., Jeffery, S., Bastos, A.C., van der Velde, M., Diafas, I., 2010. 
+**Biochar Application to Soils: A Critical Scientific Review of Effects on Soil Properties, Process and Functions.**
+JRC Scientific and Technical Reports. European Communities, Luxembourg.   http://dx.doi.org/10.2788/472
+
 Wang, C., Anderson, C., Suárez-Abelenda, M., Wang, T., Camps-Arbestain, M., Ahmad, R.,
-Herath, H.M.S.K., 2015a. The chemical composition of native organic matter influences
-the response of bacterial community to input of biochar and fresh plant material. Plant
-Soil 395, 87–104.
-Wang, Z., Zong, H., Zheng, H., Liu, G., Chen, L., Xing, B., 2015b. Reduced nitrification and
-abundance of ammonia-oxidizing bacteria in acidic soil amended with biochar. Chemo-
-sphere 138, 576–583.40
-Warnock, D.D., Lehmann, J., Kuyper, T.W., Rillig, M.C., 2007. Mycorrhizal responses to bio-
-char in soil – concepts and mechanisms. Plant Soil 300, 9–20.
-Warnock, D.D., Mummey, D.L., McBride, B., Major, J., Lehmann, J., Rillig, M.C., 2010. Influ-
-ences of non-herbaceous biochar on arbuscular mycorrhizal fungal abundances in roots
-and soils: Results from growth-chamber and field experiments. Appl. Soil Ecol 46,
-450–456.
-Wilkinson, M.T., Richards, P.J., Humphreys, G.S., 2009. Breaking ground: pedological, geo-
-logical and ecological implications of soil bioturbation. Earth-Science Rev. 97, 257–272.
-Yan, L., Kong, L., Qu, Z., Li, L., Shen, G., 2014. Magnetic biochar decorated with ZnS nano-
-crystals for Pb (II) removal. ACS Sustain. Chem. Eng. 3, 125–132.
-Yanai, Y., Toyota, K., Okazaki, M., 2007. Effects of charcoal addition on N 2 O emissions from
-soil resulting from rewetting air-dried soil in short-term laboratory experiments. Soil Sci.
-Plant Nutr. 53, 181–188.
+Herath, H.M.S.K., 2015a. 
+**The chemical composition of native organic matter influences the response of bacterial community to input of biochar and fresh plant material.** 
+Plant Soil 395, 87–104.   https://doi.org/10.1007/s11104-015-2621-3
+
+Wang, Z., Zong, H., Zheng, H., Liu, G., Chen, L., Xing, B., 2015b. 
+**Reduced nitrification and abundance of ammonia-oxidizing bacteria in acidic soil amended with biochar.**
+Chemosphere 138, 576–583.40  https://doi.org/10.1016/j.chemosphere.2015.06.084
+
+Warnock, D.D., Lehmann, J., Kuyper, T.W., Rillig, M.C., 2007. 
+**Mycorrhizal responses to biochar in soil – concepts and mechanisms.**
+Plant Soil 300, 9–20.  https://doi.org/10.1007/s11104-007-9391-5
+
+Warnock, D.D., Mummey, D.L., McBride, B., Major, J., Lehmann, J., Rillig, M.C., 2010. 
+**Influences of non-herbaceous biochar on arbuscular mycorrhizal fungal abundances in roots
+and soils: Results from growth-chamber and field experiments.** 
+Appl. Soil Ecol 46, 450–456.   https://doi.org/10.1016/j.apsoil.2010.09.002
+
+Wilkinson, M.T., Richards, P.J., Humphreys, G.S., 2009. 
+**Breaking ground: pedological, geological and ecological implications of soil bioturbation.** 
+Earth-Science Rev. 97, 257–272.  https://doi.org/10.1016/j.earscirev.2009.09.005
+
+Yan, L., Kong, L., Qu, Z., Li, L., Shen, G., 2014. 
+**Magnetic biochar decorated with ZnS nanocrystals for Pb (II) removal.**
+ACS Sustain. Chem. Eng. 3, 125–132.   DOI: 10.1021/sc500619r
+
+Yanai, Y., Toyota, K., Okazaki, M., 2007. 
+**Effects of charcoal addition on N 2 O emissions from soil resulting from rewetting air-dried soil in short-term laboratory experiments.** 
+Soil Sci. Plant Nutr. 53, 181–188.  DOI: 10.1111/j.1747-0765.2007.00123.x
+
 Zhang, X., Wang, H., He, L., Lu, K., Sarmah, A., Li, J., Bolan, N.S., Pei, J., Huang, H., 2013a.
-Using biochar for remediation of soils contaminated with heavy metals and organic pol-
-lutants. Environ. Sci. Pollut. Res. Int. 20, 8472–8483.
-Zhang, M., Gao, B., Varnoosfarderani, S., Hebard, A., Yao, Y., Inyang, M., 2013b. Preparation
-and characterization of a novel magnetic biochar for arsenic removal. Bioresour. Technol.
-130, 457–462.
-Zhou, J., Huang, Y., Mo, M., 2009. Phylogenetic analysis on the soil bacteria distributed in
-Karst forest. Braz. J. Microbiol. 40, 827–837.
+**Using biochar for remediation of soils contaminated with heavy metals and organic pol-
+lutants.**
+Environ. Sci. Pollut. Res. Int. 20, 8472–8483.  https://doi.org/10.1007/s11356-013-1659-0
+
+Zhang, M., Gao, B., Varnoosfarderani, S., Hebard, A., Yao, Y., Inyang, M., 2013b. 
+**Preparation and characterization of a novel magnetic biochar for arsenic removal.** 
+Bioresour. Technol.130, 457–462.  https://doi.org/10.1016/j.biortech.2012.11.132
+
+Zhou, J., Huang, Y., Mo, M., 2009. 
+**Phylogenetic analysis on the soil bacteria distributed in Karst forest.**
+Braz. J. Microbiol. 40, 827–837.   http://dx.doi.org/10.1590/S1517-83822009000400013
 
 
 ### Biochar Application - Essential Soil Microbial Ecology 
